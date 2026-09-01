@@ -21,11 +21,11 @@ jobs:
     steps:
       - name: Sveglia il sorvegliante ogni 5 minuti
         env:
-          TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+          TOKEN: ${{ secrets.INTERPELLI }}
           BERSAGLIO: alessandrosolla/interpelli-cagliari
         run: |
           if [ -z "$TOKEN" ]; then
-            echo "::error::manca il segreto DISPATCH_TOKEN"; exit 1
+            echo "::error::manca il segreto INTERPELLI"; exit 1
           fi
           fine=$(( $(date +%s) + 345*60 ))
           n=0; ko=0
@@ -54,7 +54,7 @@ jobs:
       - name: Passa il turno a sé stesso
         if: always()
         env:
-          TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+          TOKEN: ${{ secrets.INTERPELLI }}
         run: |
           curl -sS -o /dev/null -w 'rilancio: %{http_code}\n' -X POST \
             -H "Accept: application/vnd.github+json" \
