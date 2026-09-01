@@ -1,0 +1,64 @@
+name: Sveglia
+
+on:
+  workflow_dispatch:
+  # rete di sicurezza: se la catena si spezza, il cron pigro la riavvia
+  schedule:
+    - cron: "17 */3 * * *"
+
+permissions: {}
+
+concurrency:
+  group: sveglia
+  cancel-in-progress: false
+
+jobs:
+  orologio:
+    runs-on: ubuntu-latest
+    # sei ore è il massimo consentito a un job: ci si ferma poco prima
+    timeout-minutes: 350
+
+    steps:
+      - name: Sveglia il sorvegliante ogni 5 minuti
+        env:
+          TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+          BERSAGLIO: alessandrosolla/interpelli-cagliari
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "::error::manca il segreto DISPATCH_TOKEN"; exit 1
+          fi
+          fine=$(( $(date +%s) + 345*60 ))
+          n=0; ko=0
+          while [ "$(date +%s)" -lt "$fine" ]; do
+            n=$((n+1))
+            codice=$(curl -sS -o /dev/null -w '%{http_code}' -X POST \
+              -H "Accept: application/vnd.github+json" \
+              -H "Authorization: Bearer $TOKEN" \
+              -H "Content-Type: application/json" \
+              "https://api.github.com/repos/$BERSAGLIO/dispatches" \
+              -d '{"event_type":"giro"}' || echo 000)
+            if [ "$codice" = "204" ]; then
+              echo "$(date -u '+%H:%M:%S')  sveglia $n inviata"
+            else
+              ko=$((ko+1))
+              echo "::warning::sveglia $n fallita con codice $codice"
+              # se sbaglia sempre non ha senso restare acceso sei ore
+              if [ "$ko" -ge 5 ] && [ "$ko" = "$n" ]; then
+                echo "::error::cinque fallimenti su cinque, mi fermo"; exit 1
+              fi
+            fi
+            sleep 300
+          done
+          echo "turno finito: $n sveglie, $ko fallite"
+
+      - name: Passa il turno a sé stesso
+        if: always()
+        env:
+          TOKEN: ${{ secrets.DISPATCH_TOKEN }}
+        run: |
+          curl -sS -o /dev/null -w 'rilancio: %{http_code}\n' -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Content-Type: application/json" \
+            "https://api.github.com/repos/${{ github.repository }}/actions/workflows/sveglia.yml/dispatches" \
+            -d '{"ref":"main"}'
