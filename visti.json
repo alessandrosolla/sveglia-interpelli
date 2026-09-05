@@ -1,0 +1,562 @@
+{
+ "inviati": {
+  "a2e1fae165": {
+   "a": "alessandro.solla.00@gmail.com",
+   "classe": "ADEE",
+   "quando": "30/08/2026 alle 12:14:40",
+   "scuola": "esercitazione"
+  }
+ },
+ "pendenti": {},
+ "stato": {
+  "fallimenti": 0,
+  "ultimo_giro": "2026-09-05T11:46:51",
+  "update_offset": 406093743
+ },
+ "visti": {
+  "https://www.mim.gov.it/web/cagliari/-/1-interpello-per-supplenza-su-classe-di-concorso-a042-scienze-e-tecnologie-meccaniche-urgente-i-p-i-a-g-ferraris-iglesias": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-16",
+   "scadenza": "",
+   "titolo": "1 ° Interpello per supplenza su classe di concorso A042 - SCIENZE E TECNOLOGIE MECCANICHE – URGENTE I.P.I.A. “G. Ferraris” Iglesias",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-breve-fino-al-08-06-2026-classe-di-concorso-a027-matematica-e-fisica-a-s-2025-26-liceo-classico-statale-e-piga-villacidro-s": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-08",
+   "scadenza": "",
+   "titolo": "2^ INTERPELLO PER SUPPLENZA BREVE FINO AL 08/06/2026 CLASSE DI CONCORSO A027 MATEMATICA E FISICA -A. S. 2025/26. LICEO CLASSICO STATALE “E. PIGA” VILLACIDRO (SU)",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-13-c-23-o-m-88-2024-anno-scolastico-2025-26-c-d-c-a011-discipline-letterarie-e-latino-7-ore-convitto-nazionale-cagliari": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2025-12-19",
+   "scadenza": "",
+   "titolo": "INTERPELLO a norma dell’art. 13, c. 23, O.M. 88/2024 - anno scolastico 2025/26 C.D.C A011 – Discipline letterarie e latino – 7 ore Convitto Nazionale Cagliari",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-13-c-23-o-m-88-2024-anno-scolastico-2025-26-c-d-c-as2b-lingue-e-culture-straniere-inglese-convitto-nazionale-statale-vitto": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-26",
+   "scadenza": "",
+   "titolo": "INTERPELLO A NORMA DELL’ART. 13, c. 23, O.M. 88/2024 – ANNO SCOLASTICO 2025/26 C.D.C AS2B –LINGUE E CULTURE STRANIERE INGLESE. CONVITTO NAZIONALE STATALE “VITTORIO EMANUELE II” CAGLIARI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a013-discipline-letterarie-latino-e-greco-liceo-classico-linguistico-e-scienze-umane-quartu-sant-elena": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-23",
+   "scadenza": "",
+   "titolo": "Interpello A013 Discipline letterarie, latino e greco. Liceo classico linguistico e scienze umane Quartu Sant’Elena",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a051-scienze-tecnologie-e-tecniche-agrarie-i-i-s-beccaria-loi-carbonia-ca-corso-serale": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-11",
+   "scadenza": "",
+   "titolo": "Interpello A051 Scienze, tecnologie e tecniche agrarie. I.I.S. “Beccaria - Loi” Carbonia CA Corso Serale",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a051-scienze-tecnologie-e-tecniche-agrarie-i-i-s-giuseppe-dessi-villaputzu-ca-corso-serale": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-06",
+   "scadenza": "",
+   "titolo": "Interpello A051 Scienze, tecnologie e tecniche agrarie. I.I.S. “Giuseppe Dessì” Villaputzu CA Corso Serale",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-anno-scolastico-2025-26-c-d-c-am2b-lingue-e-culture-straniere-inglese-18h-istituto-comprensivo-statale-sinnai-1-2-sinnai": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-08",
+   "scadenza": "",
+   "titolo": "INTERPELLO ANNO SCOLASTICO 2025/26 - C.D.C AM2B –LINGUE E CULTURE STRANIERE INGLESE – 18h – ISTITUTO COMPRENSIVO STATALE “SINNAI 1-2” -SINNAI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-anno-scolastico-2025-26-c-d-c-as2b-lingue-e-culture-straniere-inglese-12h-convitto-nazionale-statale-vittorio-emanuele-ii-cagliari": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-07",
+   "scadenza": "",
+   "titolo": "INTERPELLO ANNO SCOLASTICO 2025/26 C.D.C AS2B –LINGUE E CULTURE STRANIERE INGLESE – 12h CONVITTO NAZIONALE STATALE “VITTORIO EMANUELE II” CAGLIARI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-as12-discipline-letterarie-scuole-secondarie-di-ii-grado-i-i-s-giuseppe-dessi-villaputzu-ca": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-25",
+   "scadenza": "",
+   "titolo": "Interpello AS12 Discipline Letterarie Scuole Secondarie di II grado. I.I.S. “Giuseppe Dessì” Villaputzu CA",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-c-c-a026-i-i-s-asproni-fermi-iglesias": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-02-13",
+   "scadenza": "",
+   "titolo": "INTERPELLO C.C. A026 I.I.S. ASPRONI FERMI IGLESIAS",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-c-c-a027-i-m-baudi-di-vesme-iglesias": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-02-19",
+   "scadenza": "",
+   "titolo": "INTERPELLO C.C. A027 I.M. BAUDI DI VESME IGLESIAS",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-c-c-am2b-progetto-progressi-linea-recuperiamo_istituto-comprensivo-giovanni-lilliu-cagliari": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-05",
+   "scadenza": "",
+   "titolo": "INTERPELLO C. C. AM2B – PROGETTO PROGRESSI LINEA RECUPERIAMO_ISTITUTO COMPRENSIVO “GIOVANNI LILLIU” CAGLIARI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-c-d-c-bd02-conversazione-lingua-straniera-tedesco-i-i-s-zappa-pitagora-isili": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-16",
+   "scadenza": "",
+   "titolo": "INTERPELLO C.d.c. BD02 Conversazione lingua straniera - TEDESCO - I.I.S. ZAPPA PITAGORA ISILI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-classe-di-concorso-a023-lingua-italiana-per-discenti-di-lingua-straniera-alloglotti-c-p-i-a-n-2-serramanna-centro-provinciale-per-l-istruzi": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-12",
+   "scadenza": "",
+   "titolo": "INTERPELLO CLASSE DI CONCORSO A023 (lingua italiana per discenti di lingua straniera (alloglotti)) C.P.I.A. N. 2 SERRAMANNA - CENTRO PROVINCIALE PER L’ISTRUZIONE DEGLI ADULTI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-classe-di-concorso-adee-scuola-primaria-posto-sostegno-24-ore-dal-13-01-2026-al-30-01-2026-ic-serramanna": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-12",
+   "scadenza": "",
+   "titolo": "Interpello classe di concorso ADEE scuola Primaria posto sostegno 24 ore dal 13/01/2026 al 30/01/2026 IC Serramanna",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-classe-di-concorso-adee-scuola-primaria-posto-sostegno-fino-al-09-02-2026-ic-rodari-sestu": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-28",
+   "scadenza": "",
+   "titolo": "Interpello classe di concorso ADEE scuola Primaria posto sostegno fino al 09/02/2026 IC “Rodari” Sestu",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-d-urgenza-per-supplenza-su-classe-di-concorso-a011-liceo-scientifico-statale-leon-battista-alberti-cagliari": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-12",
+   "scadenza": "",
+   "titolo": "INTERPELLO D’URGENZA PER SUPPLENZA SU CLASSE DI CONCORSO A011 - LICEO SCIENTIFICO STATALE “LEON BATTISTA ALBERTI” CAGLIARI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-finalizzato-a-individuare-candidati-a-cui-assegnare-1-supplenza-cc-am2a-ics-santadi-narcao": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-13",
+   "scadenza": "",
+   "titolo": "INTERPELLO FINALIZZATO A INDIVIDUARE CANDIDATI A CUI ASSEGNARE 1 SUPPLENZA – CC AM2A - ICS SANTADI NARCAO",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-individuazione-docenti-scuola-secondaria-di-secondo-grado-in-possesso-di-idoneo-titolo-di-studio-per-la-classe-di-concorso-a011-discipline-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-30",
+   "scadenza": "",
+   "titolo": "Interpello individuazione docenti scuola secondaria di secondo grado in possesso di idoneo titolo di studio per la classe di concorso A011 – DISCIPLINE LETTERARIE E LATINO_IM “BAUDI DI VESME”_IGLESIAS",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-interprovinciale-per-il-reclutamento-di-un-docente-per-la-classe-di-concorso-a027-matematica-e-fisica-istituto-di-istruzione-superiore-g-as": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-20",
+   "scadenza": "",
+   "titolo": "INTERPELLO INTERPROVINCIALE PER IL RECLUTAMENTO DI UN DOCENTE PER LA CLASSE DI CONCORSO A027 MATEMATICA E FISICA - ISTITUTO DI ISTRUZIONE SUPERIORE “G. ASPRONI” IGLESIAS",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-n-007-per-selezione-personale-docente-scuola-primaria-posto-sostegno-adee-ai-sensi-dell-articolo-13-comma-23-dell-om-88-2024-ic-capoterra-2": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2025-12-05",
+   "scadenza": "",
+   "titolo": "Interpello N. 007 per selezione personale docente scuola primaria posto sostegno (ADEE) ai sensi dell’articolo 13 comma 23 dell’OM 88/2024- IC CAPOTERRA 2",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-n-010-per-selezione-personale-docente-scuola-primaria-posto-montessori-eehn-ai-sensi-dell-articolo-13-comma-23-dell-om-88-2024": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-11",
+   "scadenza": "",
+   "titolo": "Interpello N. 010 per selezione personale docente scuola primaria posto Montessori (EEHN) ai sensi dell’articolo 13 comma 23 dell’OM 88/2024",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-n-012-per-selezione-personale-docente-scuola-primaria-posto-sostegno-adee-ai-sensi-dell-articolo-13-comma-23-dell-om-88-2024": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-08",
+   "scadenza": "",
+   "titolo": "Interpello N. 012 per selezione personale docente scuola primaria posto sostegno (ADEE) ai sensi dell’articolo 13 comma 23 dell’OM 88/2024",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-n-013-per-selezione-personale-docente-scuola-primaria-posto-montessori-eehn-ai-sensi-dell-articolo-13-comma-23-dell-om-88-2024": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-21",
+   "scadenza": "",
+   "titolo": "Interpello N. 013 per selezione personale docente scuola primaria posto Montessori (EEHN) ai sensi dell’articolo 13 comma 23 dell’OM 88/2024",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-n-1-cattedra-18-ore-ore-settimanali-sede-isili-dalla-data-della-presa-di-servizio-al-20-12-2025-presso-iis-zappa-pitagora-di-isili-ca-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2025-12-05",
+   "scadenza": "",
+   "titolo": "Interpello n. 1 Cattedra 18 ore ore settimanali Sede Isili dalla data della presa di servizio al 20.12.2025 presso IIS “Zappa Pitagora ” di Isili ( Ca )",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-n-1-supplenza-c-c-a027-matematica-e-fisica-liceo-classico-scientifico-euclide-cagliari": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-09",
+   "scadenza": "",
+   "titolo": "INTERPELLO N°1 SUPPLENZA C. C. A027 – MATEMATICA E FISICA LICEO CLASSICO SCIENTIFICO “EUCLIDE” CAGLIARI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-nomina-supplenza-breve-fino-al-30-05-2026-classe-di-concorso-as2b-lingua-e-culture-straniere-inglese-istituto-di-istruzione-s": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-12",
+   "scadenza": "",
+   "titolo": "INTERPELLO NAZIONALE PER NOMINA SUPPLENZA BREVE FINO AL 30/05/2026 – CLASSE DI CONCORSO AS2B (LINGUA E CULTURE STRANIERE – INGLESE) – ISTITUTO DI ISTRUZIONE SUPERIORE “G. M. ANGIOY” CARBONIA",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-supplenza-su-classe-di-concorso-a041-scienze-e-tecnologie-informatiche-_ite-martini-_cagliari": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-30",
+   "scadenza": "",
+   "titolo": "Interpello Nazionale per supplenza su classe di concorso A041 - Scienze e Tecnologie Informatiche._ITE “MARTINI”_CAGLIARI",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-conferimento-incarico-temporaneo-supplenza-breve-classe-di-concorso-am2b-inglese-iscol-progetto-progressi-istituto-comprensivo-statale-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-07",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER CONFERIMENTO INCARICO TEMPORANEO - SUPPLENZA BREVE – CLASSE DI CONCORSO AM2B – INGLESE - ISCOL@ - PROGETTO PROGRESSI. ISTITUTO COMPRENSIVO STATALE “V. ANGIUS” PORTOSCUSO",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-individuazione-di-un-docente-classe-di-concorso-a028-matematica-e-scienze-a060-tecnologia-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-19",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER INDIVIDUAZIONE DI UN DOCENTE CLASSE DI CONCORSO A028 (MATEMATICA E SCIENZE) - A060 (TECNOLOGIA)",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-individuazione-n-2-docenti-classe-di-concorso-am2b-lingua-inglese-nella-scuola-secondaria-di-i-grado-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-19",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER INDIVIDUAZIONE N. 2 DOCENTI CLASSE DI CONCORSO AM2B (LINGUA INGLESE NELLA SCUOLA SECONDARIA DI I GRADO)",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-individuazione-n-2-docenti-pro-getto-progressi-progetti-per-il-recupero-e-il-supporto-agli-studenti-nell-innovazione-anni-scolastici-20": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-18",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER INDIVIDUAZIONE N.2 DOCENTI PRO-GETTO \"PROGRESSI - PROGETTI PER IL RECUPERO E IL SUPPORTO AGLI STUDENTI NELL’INNOVAZIONE ANNI SCOLASTICI 2025-26\"- LINEA RECUPERIAMO III ANNUALITÀ",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-l-individuazione-di-un-docente-progetto-progressi-progetti-per-il-recupero-e-il-supporto-agli-studenti-nell-innovazione-anno-scolastico": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-22",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER L’INDIVIDUAZIONE DI UN DOCENTE PROGETTO “PROGRESSI – PROGETTI PER IL RECUPERO E IL SUPPORTO AGLI STUDENTI NELL’INNOVAZIONE ANNO SCOLASTICO 2025/2026” – LINEA RECUPERIAMO III ANNUALITÀ- CLASSE DI CONCORSO A011 (ITALIANO E LATINO)",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-l-individuazione-e-il-reclutamento-di-un-docente-classe-di-concorso-as2b-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-22",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER L’INDIVIDUAZIONE E IL RECLUTAMENTO DI UN DOCENTE CLASSE DI CONCORSO AS2B – LINGUE E CULTURE STRANIERE NEGLI ISTITUTI DI ISTRUZIONE DI II GRADO (INGLESE). LINEA RECUPERIAMO",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-l-individuazione-un-docente-progetto-progressi-progetti-per-il-recupero-e-il-supporto-agli-studenti-nell-innovazione-anni-scolastici-20": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-18",
+   "scadenza": "",
+   "titolo": "INTERPELLO per l’individuazione un docente Progetto \"PROGRESSI - PROGetti per il REcupero e il Supporto agli Studenti nell’Innovazione Anni Scolastici 2025-26\"- Linea RECUPERIAMO III annualità",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-l-insegnamento-di-matematica-c-c-a026-e-c-c-a027-progetto-progressi_-linea-recuperiamo-istituto-di-istruzione-superiore-duca-degli-abru": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-09",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER L’ INSEGNAMENTO DI MATEMATICA (C. C. A026 e C. C. A027) - PROGETTO PROGRESSI_ LINEA RECUPERIAMO – ISTITUTO DI ISTRUZIONE SUPERIORE “DUCA DEGLI ABRUZZI” ELMAS",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-classe-di-concorso-a021-geografia-n-1-spezzone-orario-n-3-ore-settimanali-su-2-giorni-sede-isili": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-24",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER LA CLASSE DI CONCORSO A021 GEOGRAFIA. N. 1 SPEZZONE ORARIO N. 3 ORE SETTIMANALI SU 2 GIORNI - Sede Isili",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-copertura-di-n-1-supplenza-temporanea-per-la-classe-di-concorso-am2a-lingue-e-culture-straniere-nell-istruzione-secondaria-di-i-gr-1": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-02",
+   "scadenza": "",
+   "titolo": "INTERPELLO per la copertura di n. 1 supplenza temporanea per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE)_I.C. Selargius 1",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-copertura-di-n-1-supplenza-temporanea-per-la-classe-di-concorso-am2a-lingue-e-culture-straniere-nell-istruzione-secondaria-di-i-grad": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-02-11",
+   "scadenza": "",
+   "titolo": "INTERPELLO per la copertura di n. 1 supplenza temporanea per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE).",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-copertura-di-n-1-supplenza-temporanea-per-posto-comune-scuola-primaria-eeee-con-certificazione-linguistica-abilitante-all-insegnamen": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-14",
+   "scadenza": "",
+   "titolo": "Interpello per la copertura di n.1 supplenza temporanea per posto comune Scuola Primaria EEEE con certificazione linguistica abilitante all’insegnamento della Lingua Inglese",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-personale-docente-scuola-primaria-su-posto-sostegno-adee-ai-sensi-dell-art-13-comma-23-dell-o-m-n-88-2024": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-02-12",
+   "scadenza": "",
+   "titolo": "Interpello per la selezione personale docente scuola primaria su posto sostegno ADEE – ai sensi dell’art. 13, comma 23, dell’O.M. n° 88/2024",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-1-posto-classe-di-concorso-adee-posto-sostegno-scuola-primaria-ic-villasor": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2025-12-05",
+   "scadenza": "",
+   "titolo": "Interpello per N° 1 POSTO. Classe di concorso ADEE Posto SOSTEGNO scuola primaria IC Villasor",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-1-posto-classe-di-concorso-adee-posto-sostegno-scuola-primaria-solo-per-aspiranti-con-titolo-di-sostegno-scuola-primaria": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-12",
+   "scadenza": "",
+   "titolo": "Interpello per N° 1 POSTO Classe di concorso ADEE Posto SOSTEGNO scuola primaria. SOLO PER ASPIRANTI CON TITOLO DI SOSTEGNO SCUOLA PRIMARIA",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-1-posto-h-24-n-1-posto-h-12-sino-al-08-06-2026-classe-di-concorso-adee-posto-sostegno-scuola-primaria-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-03",
+   "scadenza": "",
+   "titolo": "Interpello per N° 1 POSTO h. 24 + N. 1 POSTO h. 12 sino al 08/06/2026 Classe di concorso ADEE Posto SOSTEGNO scuola primaria.",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-2-posti-classe-di-concorso-adee-posto-sostegno-scuola-primaria_ic-guasila": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-02-04",
+   "scadenza": "",
+   "titolo": "Interpello per N° 2 POSTI Classe di concorso ADEE Posto SOSTEGNO scuola primaria_IC GUASILA",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-selezione-di-n-1-docente-c-c-adee-sostegno-scuola-primaria-per-24-ore-settimanali-ai-sensi-dell-art-13-co-23-o-m-88-2024-a-s-2025-202-1": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-08",
+   "scadenza": "",
+   "titolo": "Interpello per selezione di n. 1 Docente c.c. ADEE SOSTEGNO SCUOLA PRIMARIA per 24 ore settimanali, ai sensi dell’art. 13 co. 23 O.M. 88/2024 – a. s. 2025/2026. SOLO PER ASPIRANTI CON TITOLO DI SOSTEGNO SCUOLA PRIMARIA",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-selezione-di-n-1-docente-c-c-adee-sostegno-scuola-primaria-per-24-ore-settimanali-ai-sensi-dell-art-13-co-23-o-m-88-2024-a-s-2025-2026-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-03",
+   "scadenza": "",
+   "titolo": "Interpello per selezione di n. 1 Docente c.c. ADEE SOSTEGNO SCUOLA PRIMARIA per 24 ore settimanali, ai sensi dell’art. 13 co. 23 O.M. 88/2024 – a. s. 2025/2026. SOLO PER ASPIRANTI CON TITOLO DI SOSTEGNO SCUOLA PRIMARIA.",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-selezione-di-n-2-docenti-c-c-adaa-sostegno-scuola-infanzia-n-1-per-25-ore-settimanali-e-n-1-per-12-ore-30-minuti-settimanali-ai-sensi-d": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-08",
+   "scadenza": "",
+   "titolo": "Interpello per selezione di n. 2 Docenti c.c. ADAA SOSTEGNO SCUOLA INFANZIA n.1 per 25 ore settimanali e n. 1 per 12 ore 30 minuti settimanali, ai sensi dell’art. 13 co. 23 O.M. 88/2024 – a. s. 2025/2026. SOLO PER ASPIRANTI CON TITOLO DI SOSTEGNO SCUOLA INFANZIA",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-suplenza-breve-fino-al-15-05-2026-classe-di-concorso-a027-matematica-e-fisica-a-s-2025-26-liceo-classico-statale-e-piga-villacidro-su-": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-04",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPLENZA BREVE FINO AL 15/05/2026. CLASSE DI CONCORSO A027 MATEMATICA E FISICA- A. S. 2025/26. LICEO CLASSICO STATALE “E. PIGA” VILLACIDRO (SU)",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-adee-sostegno-scuola-primaria": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-29",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA ADEE – SOSTEGNO SCUOLA PRIMARIA",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-e-saltuaria-docente-scuola-primaria-posto-comune-24-ore-settimanali-plesso-domus-de-maria": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-07",
+   "scadenza": "",
+   "titolo": "INTERPELLO per supplenza breve e saltuaria docente scuola Primaria Posto Comune 24 ore settimanali plesso Domus de Maria",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-e-saltuaria-docente-scuola-primaria-posto-sostegno-24-ore-settimanali-plesso-domus-de-maria": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-18",
+   "scadenza": "",
+   "titolo": "INTERPELLO per supplenza breve e saltuaria docente scuola Primaria Posto Sostegno 24 ore settimanali plesso Domus de Maria",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-e-saltuaria-docente-scuola-primaria-posto-sostegno-24-ore-settimanali-plesso-domus-de-maria-1": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-19",
+   "scadenza": "",
+   "titolo": "INTERPELLO per supplenza breve e saltuaria docente scuola Primaria Posto SOSTEGNO 24 ore settimanali plesso Domus de Maria",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-e-saltuaria-docente-scuola-secondaria-i-grado-flauto-ag56-dal-16-01-2026-al-21-01-2026-18-ore-settimanali_ic-sanluri": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-15",
+   "scadenza": "",
+   "titolo": "INTERPELLO per supplenza breve e saltuaria docente scuola secondaria I grado – FLAUTO AG56 – dal 16/01/2026 al 21/01/2026 – 18 ore settimanali_IC Sanluri",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-n-1-cattedra-classe-di-concorso-a026-matematica-presso-l-istituto-di-istruzione-superiore-beccaria-e-loi-di-carbonia": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-16",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza breve n.1 cattedra classe di concorso A026 – MATEMATICA – presso l’Istituto di Istruzione Superiore “Beccaria – E. Loi” di Carbonia",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-n-1-cattedra-classe-di-concorso-as2b-inglese-istituto-di-istruzione-superiore-beccaria-e-loi-carbonia-sede-di-via-dalma": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-12",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA BREVE N.1 CATTEDRA CLASSE DI CONCORSO AS2B – INGLESE – ISTITUTO DI ISTRUZIONE SUPERIORE “BECCARIA – E. LOI” CARBONIA – SEDE DI VIA DALMAZIA",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-a026-matematica-progetto-progressi-linea-recuperiamo-a-s-2025-2026-i-p-i-a-g-ferraris-iglesias": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-19",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A026 – MATEMATICA (Progetto Progressi - Linea Recuperiamo) A. S. 2025/2026. I.P.I.A. “G. FERRARIS” – IGLESIAS",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2b-istituto-d-istruzione-superiore-marconi-lussu-san-gavino-monreale": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-16",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO AS2B - ISTITUTO D’ISTRUZIONE SUPERIORE “MARCONI- LUSSU”SAN GAVINO MONREALE",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2b-istituto-d-istruzione-superiore-marconi-lussu-san-gavino-monreale-durata-della-supplenza-dalla-pre": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-16",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO AS2B - ISTITUTO D’ISTRUZIONE SUPERIORE “MARCONI- LUSSU” SAN GAVINO MONREALE. Durata della supplenza dalla presa di servizio fino al 23/05/2026",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-educazione-motoria-eeem": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-27",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza su classe di concorso Educazione Motoria EEEM",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-preventivo-n-011-per-selezione-personale-docente-scuola-primaria-e-infanzia-posto-comune-e-di-sostegno-supplenze-pari-o-inferiori-ai-10-gio": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-13",
+   "scadenza": "",
+   "titolo": "Interpello PREVENTIVO N. 011 per selezione personale docente scuola primaria e infanzia posto comune e di sostegno (supplenze pari o inferiori ai 10 giorni) ai sensi dell’articolo 13 comma 23 dell’OM 88/2024",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-n-2-per-la-selezione-di-n-1-docente-posto-comune-scuola-primaria-isili-supplenza-breve-e-saltuaria-a-s-2025-26": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-13",
+   "scadenza": "",
+   "titolo": "Interpello Regionale n. 2 per la selezione di n. 1 docente posto comune scuola primaria Isili - supplenza breve e saltuaria a.s. 2025-26",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-la-selezione-di-n-1-docente-scuola-infanzia-posto-sostegno-sede-orroli-a-s-2025-26": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-04-10",
+   "scadenza": "",
+   "titolo": "INTERPELLO REGIONALE PER LA SELEZIONE DI N° 1 DOCENTE SCUOLA INFANZIA POSTO SOSTEGNO SEDE ORROLI A.S. 2025/26",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-la-selezione-di-n-2-do-cente-scuola-primaria-posto-sostegno-a-s-2024-25": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-15",
+   "scadenza": "",
+   "titolo": "INTERPELLO REGIONALE PER LA SELEZIONE DI N° 2 DO-CENTE SCUOLA PRIMARIA POSTO SOSTEGNO A.S. 2024/25",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-supplenza-breve-fino-al-30-01-2026-h-18-admm-scuola-secondaria-di-i-grado-i-c-gramsci-rodari-di-sestu": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-01-23",
+   "scadenza": "",
+   "titolo": "Interpello Supplenza breve fino al 30/01/2026 h. 18 ADMM Scuola Secondaria di I grado - I.C. \"Gramsci+Rodari\" di Sestu",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/proroga-interpello-per-la-copertura-di-n-1-supplenza-temporanea-per-la-classe-di-concorso-am2a-lingue-e-culture-straniere-nell-istruzione-secondaria-d": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-03-03",
+   "scadenza": "",
+   "titolo": "PROROGA INTERPELLO per la copertura di n. 1 supplenza temporanea per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE)_I.C. Selargius 1",
+   "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/urgente-trasmissione-avviso-di-interpello-per-classe-di-concorso-am12-ex-a022-scadenza-supplenza-29-05-2026-oric81400e": {
+   "classe": "",
+   "esito": "preesistente",
+   "pubblicato": "2026-05-12",
+   "scadenza": "",
+   "titolo": "URGENTE: TRASMISSIONE AVVISO DI INTERPELLO PER CLASSE DI CONCORSO AM12 (EX A022) – SCADENZA SUPPLENZA 29/05/2026 – ORIC81400E",
+   "visto_il": "2026-08-26T20:40:41"
+  }
+ }
+}

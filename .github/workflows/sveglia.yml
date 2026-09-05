@@ -6,7 +6,8 @@ on:
   schedule:
     - cron: "17 */3 * * *"
 
-permissions: {}
+permissions:
+  contents: write        # per riscrivere visti.json
 
 concurrency:
   group: sveglia
@@ -15,41 +16,43 @@ concurrency:
 jobs:
   orologio:
     runs-on: ubuntu-latest
-    # sei ore è il massimo consentito a un job: ci si ferma poco prima
+    # sei ore è il massimo per un job: ci si ferma poco prima
     timeout-minutes: 350
 
     steps:
-      - name: Sveglia il sorvegliante ogni 5 minuti
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+
+      # Il giro vive qui dentro, non in un altro repository: su un repository
+      # pubblico i minuti sono illimitati, su uno privato finivano in una
+      # settimana. Il privato si sveglia solo quando c'è da spedire.
+      - name: Sorveglia ogni 5 minuti per sei ore
         env:
-          TOKEN: ${{ secrets.INTERPELLI }}
-          BERSAGLIO: alessandrosolla/interpelli-cagliari
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISPATCH_TOKEN: ${{ secrets.INTERPELLI }}
         run: |
-          if [ -z "$TOKEN" ]; then
-            echo "::error::manca il segreto INTERPELLI"; exit 1
-          fi
-          fine=$(( $(date +%s) + 345*60 ))
-          n=0; ko=0
+          fine=$(( $(date +%s) + 340*60 ))
+          n=0
           while [ "$(date +%s)" -lt "$fine" ]; do
             n=$((n+1))
-            codice=$(curl -sS -o /dev/null -w '%{http_code}' -X POST \
-              -H "Accept: application/vnd.github+json" \
-              -H "Authorization: Bearer $TOKEN" \
-              -H "Content-Type: application/json" \
-              "https://api.github.com/repos/$BERSAGLIO/dispatches" \
-              -d '{"event_type":"giro"}' || echo 000)
-            if [ "$codice" = "204" ]; then
-              echo "$(date -u '+%H:%M:%S')  sveglia $n inviata"
-            else
-              ko=$((ko+1))
-              echo "::warning::sveglia $n fallita con codice $codice"
-              # se sbaglia sempre non ha senso restare acceso sei ore
-              if [ "$ko" -ge 5 ] && [ "$ko" = "$n" ]; then
-                echo "::error::cinque fallimenti su cinque, mi fermo"; exit 1
-              fi
+            echo "--- giro $n  $(date -u '+%H:%M:%S') ---"
+            python sorveglia.py || echo "::warning::giro $n in errore"
+
+            if [ -n "$(git status --porcelain visti.json)" ]; then
+              git config user.name  "sorvegliante"
+              git config user.email "actions@github.com"
+              git add visti.json
+              git commit -q -m "avvisi visti $(date -u '+%Y-%m-%d %H:%M UTC')"
+              git push -q || { git pull --rebase -q || git reset --hard -q origin/main; }
             fi
             sleep 300
           done
-          echo "turno finito: $n sveglie, $ko fallite"
+          echo "turno finito dopo $n giri"
 
       - name: Passa il turno a sé stesso
         if: always()
