@@ -7,10 +7,28 @@
    "scuola": "esercitazione"
   }
  },
- "pendenti": {},
+ "pendenti": {
+  "12f9abf7c2": {
+   "canale": "email",
+   "classe": "BB02",
+   "creato": "2026-09-16T06:48:27",
+   "destinatario": "caps02000b@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "18 ore settimanali",
+   "richiede": [
+    "modulo allegato",
+    "codice fiscale"
+   ],
+   "scadenza": "2026-09-17T08:00:00",
+   "scuola": "Liceo Scientifico Statale",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/manifestazione-di-disponibilita-per-l-interpello-relativo-alla-copertura-di-un-posto-vacante-e-disponibile-per-il-profilo-di-docente-di-classe-di-conc"
+  }
+ },
  "stato": {
   "fallimenti": 0,
-  "ultimo_giro": "2026-09-16T06:43:24",
+  "ultimo_giro": "2026-09-16T06:48:28",
+  "ultimo_nuovo": "2026-09-16",
   "update_offset": 406093743
  },
  "visti": {
@@ -541,6 +559,14 @@
    "scadenza": "",
    "titolo": "Interpello Supplenza breve fino al 30/01/2026 h. 18 ADMM Scuola Secondaria di I grado - I.C. \"Gramsci+Rodari\" di Sestu",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/manifestazione-di-disponibilita-per-l-interpello-relativo-alla-copertura-di-un-posto-vacante-e-disponibile-per-il-profilo-di-docente-di-classe-di-conc": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-09-16",
+   "scadenza": "",
+   "titolo": "Manifestazione di disponibilità per l'Interpello relativo alla copertura di un posto vacante e disponibile per il profilo di Docente di Classe di concorso BB02_Liceo “L.B. Alberti”_Cagliari",
+   "visto_il": "2026-09-16T06:48:27"
   },
   "https://www.mim.gov.it/web/cagliari/-/proroga-interpello-per-la-copertura-di-n-1-supplenza-temporanea-per-la-classe-di-concorso-am2a-lingue-e-culture-straniere-nell-istruzione-secondaria-d": {
    "classe": "",
