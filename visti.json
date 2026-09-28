@@ -39,9 +39,9 @@
   }
  },
  "stato": {
-  "fallimenti": 1,
+  "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-09-28T19:53:31",
+  "ultimo_giro": "2026-09-28T20:04:06",
   "ultimo_nuovo": "2026-09-28",
   "update_offset": 406093743
  },
