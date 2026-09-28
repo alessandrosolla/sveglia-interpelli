@@ -23,12 +23,25 @@
    "scuola": "Liceo Scientifico Statale",
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/manifestazione-di-disponibilita-per-l-interpello-relativo-alla-copertura-di-un-posto-vacante-e-disponibile-per-il-profilo-di-docente-di-classe-di-conc"
+  },
+  "e09adf1b21": {
+   "canale": "portale Argo",
+   "classe": "",
+   "creato": "2026-09-28T11:27:29",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "",
+   "ore": "",
+   "richiede": [],
+   "scadenza": "2026-09-30T08:00:00",
+   "scuola": "Istituto",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-la-selezione-di-n-1-docente-progetto-progressi-linea-recuperiamo-posto-lingua-inglese-a-s-2026-2027-istituto-comprensivo-stat"
   }
  },
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-09-28T11:22:25",
+  "ultimo_giro": "2026-09-28T11:27:31",
   "ultimo_nuovo": "2026-09-28",
   "update_offset": 406093743
  },
@@ -544,6 +557,14 @@
    "scadenza": "",
    "titolo": "Interpello Regionale n. 2 per la selezione di n. 1 docente posto comune scuola primaria Isili - supplenza breve e saltuaria a.s. 2025-26",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-la-selezione-di-n-1-docente-progetto-progressi-linea-recuperiamo-posto-lingua-inglese-a-s-2026-2027-istituto-comprensivo-stat": {
+   "classe": "",
+   "esito": "notificato",
+   "pubblicato": "2026-09-28",
+   "scadenza": "2026-09-30 08:00:00",
+   "titolo": "INTERPELLO REGIONALE PER LA SELEZIONE DI N° 1 DOCENTE- PROGETTO PROGRESSI LINEA RECUPERIAMO – POSTO LINGUA INGLESE A. S. 2026/2027 ISTITUTO COMPRENSIVO STATALE \" L. PITZALIS\" DI NURRI (SU).",
+   "visto_il": "2026-09-28T11:27:31"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-la-selezione-di-n-1-docente-scuola-infanzia-posto-sostegno-sede-orroli-a-s-2025-26": {
    "classe": "",
