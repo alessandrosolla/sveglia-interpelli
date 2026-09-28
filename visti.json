@@ -28,8 +28,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-09-28T07:59:59",
-  "ultimo_nuovo": "2026-09-16",
+  "ultimo_giro": "2026-09-28T08:05:33",
+  "ultimo_nuovo": "2026-09-28",
   "update_offset": 406093743
  },
  "visti": {
@@ -184,6 +184,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO FINALIZZATO A INDIVIDUARE CANDIDATI A CUI ASSEGNARE 1 SUPPLENZA – CC AM2A - ICS SANTADI NARCAO",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-finalizzato-all-individuazione-di-per-sonale-docente-disponibile-al-conferimento-di-supplenza-per-l-insegnamento-di-a043-scienze-e-tecnolog": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-09-28",
+   "scadenza": "",
+   "titolo": "INTERPELLO FINALIZZATO ALL’INDIVIDUAZIONE DI PER-SONALE DOCENTE DISPONIBILE AL CONFERIMENTO DI SUPPLENZA PER L’INSEGNAMENTO DI: A043 – SCIENZE E TECNOLOGIE NAUTICHE POSTO ORARIO 6 ORE FINO AL 30/06/2027 IIS “BUCCARI MARCONI” - CAGLIARI",
+   "visto_il": "2026-09-28T08:05:32"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-individuazione-docenti-scuola-secondaria-di-secondo-grado-in-possesso-di-idoneo-titolo-di-studio-per-la-classe-di-concorso-a011-discipline-": {
    "classe": "",
