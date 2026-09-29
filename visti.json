@@ -73,7 +73,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-09-29T12:20:10",
+  "ultimo_giro": "2026-09-29T12:25:26",
   "ultimo_nuovo": "2026-09-29",
   "update_offset": 406093743
  },
@@ -309,6 +309,14 @@
    "scadenza": "",
    "titolo": "Interpello nazionale per il conferimento di supplenze per l’insegnamento di Conversazione in lingua straniera ( Inglese ) – classe di concorso BB02 – a.s. 2026/2027 – I.I.S. ZAPPA PITAGORA DI ISILI",
    "visto_il": "2026-09-29T10:59:05"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-tedesco-classe-di-concorso-bd02-a-s-20-2": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-09-29",
+   "scadenza": "2026-09-28 08:00:00",
+   "titolo": "Interpello nazionale per il conferimento di supplenze per l’insegnamento di Conversazione in lingua straniera ( Tedesco ) – classe di concorso BD02 – a.s. 2026/2027 – I.I.S. ZAPPA PITAGORA DI ISILI",
+   "visto_il": "2026-09-29T12:25:26"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-tedesco-classe-di-concorso-bd02-a-s-2026": {
    "classe": "",
