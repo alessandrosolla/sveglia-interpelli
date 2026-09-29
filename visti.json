@@ -24,6 +24,22 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/manifestazione-di-disponibilita-per-l-interpello-relativo-alla-copertura-di-un-posto-vacante-e-disponibile-per-il-profilo-di-docente-di-classe-di-conc"
   },
+  "2a4c174d8b": {
+   "canale": "email",
+   "classe": "BD02",
+   "creato": "2026-09-29T11:59:55",
+   "destinatario": "cais032008@istruzione.it",
+   "durata": "fino al 30.06.2027",
+   "ore": "5 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "modulo allegato"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto",
+   "sede": "Spezzone orario 5 ore Fino al 30.06.2027 I.I.S.”Zappa Pitagora“ Isili",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-tedesco-classe-di-concorso-bd02-a-s-2026"
+  },
   "912ff907da": {
    "canale": "email",
    "classe": "BB02",
@@ -57,7 +73,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-09-29T11:54:43",
+  "ultimo_giro": "2026-09-29T11:59:56",
   "ultimo_nuovo": "2026-09-29",
   "update_offset": 406093743
  },
@@ -293,6 +309,14 @@
    "scadenza": "",
    "titolo": "Interpello nazionale per il conferimento di supplenze per l’insegnamento di Conversazione in lingua straniera ( Inglese ) – classe di concorso BB02 – a.s. 2026/2027 – I.I.S. ZAPPA PITAGORA DI ISILI",
    "visto_il": "2026-09-29T10:59:05"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-tedesco-classe-di-concorso-bd02-a-s-2026": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-09-29",
+   "scadenza": "",
+   "titolo": "Interpello nazionale per il conferimento di supplenze per l’insegnamento di Conversazione in lingua straniera ( Tedesco ) – classe di concorso BD02 – a.s. 2026/2027 – I.I.S. ZAPPA PITAGORA DI ISILI",
+   "visto_il": "2026-09-29T11:59:56"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-nomina-supplenza-breve-fino-al-30-05-2026-classe-di-concorso-as2b-lingua-e-culture-straniere-inglese-istituto-di-istruzione-s": {
    "classe": "",
