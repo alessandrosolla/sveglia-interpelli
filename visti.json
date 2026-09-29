@@ -73,7 +73,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-09-29T12:40:35",
+  "ultimo_giro": "2026-09-29T12:45:39",
   "ultimo_nuovo": "2026-09-29",
   "update_offset": 406093743
  },
@@ -445,6 +445,14 @@
    "scadenza": "",
    "titolo": "Interpello per la selezione personale docente scuola primaria su posto sostegno ADEE – ai sensi dell’art. 13, comma 23, dell’O.M. n° 88/2024",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-personale-docente-scuola-secondaria-di-1-grado-su-classe-di-concorso-ak56-strumento-musicale-saxofono-ai-sensi-dell-art-14": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-09-29",
+   "scadenza": "2026-09-28 08:00:00",
+   "titolo": "INTERPELLO per la selezione personale docente scuola secondaria di 1° grado su classe di concorso AK56 strumento musicale saxofono, ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026. Supplenza annuale fino al 31/08/2027",
+   "visto_il": "2026-09-29T12:45:38"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-1-posto-classe-di-concorso-adee-posto-sostegno-scuola-primaria-ic-villasor": {
    "classe": "",
