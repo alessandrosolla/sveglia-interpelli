@@ -73,8 +73,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-01T11:10:28",
-  "ultimo_nuovo": "2026-09-29",
+  "ultimo_giro": "2026-10-01T11:15:32",
+  "ultimo_nuovo": "2026-10-01",
   "update_offset": 406093743
  },
  "visti": {
@@ -85,6 +85,14 @@
    "scadenza": "",
    "titolo": "1 ° Interpello per supplenza su classe di concorso A042 - SCIENZE E TECNOLOGIE MECCANICHE – URGENTE I.P.I.A. “G. Ferraris” Iglesias",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/2-interpello-nazionale-classe-di-concorso-am01-arte-e-immagine-nella-scuola-secondaria-di-primo-grado-i-c-l-pitzalis-nurri": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-01",
+   "scadenza": "2026-09-30 08:00:00",
+   "titolo": "2 Interpello nazionale classe di concorso – AM01 - Arte e Immagine nella scuola secondaria di primo grado – I.C. L. Pitzalis NURRI",
+   "visto_il": "2026-10-01T11:15:31"
   },
   "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-breve-fino-al-08-06-2026-classe-di-concorso-a027-matematica-e-fisica-a-s-2025-26-liceo-classico-statale-e-piga-villacidro-s": {
    "classe": "",
