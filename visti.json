@@ -8,6 +8,39 @@
   }
  },
  "pendenti": {
+  "0107e5f889": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-16T07:33:56",
+   "destinatario": "capc06000p@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "6 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto e in quelle delle scuole viciniori;",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-f"
+  },
+  "03b9ee17bd": {
+   "canale": "portale Argo",
+   "classe": "",
+   "creato": "2026-10-16T07:34:09",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "fino al 30/06/2027",
+   "ore": "6 ore settimanali",
+   "richiede": [
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-10-19T08:00:00",
+   "scuola": "Istituto d'Istruzione Secondaria Superiore",
+   "sede": "Villaputzu corso serale",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-as2d-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-secondo-grado-tedesco-6-h-sett-li-corso-serale-a-s-202"
+  },
   "12f9abf7c2": {
    "canale": "email",
    "classe": "BB02",
@@ -23,6 +56,22 @@
    "scuola": "Liceo Scientifico Statale",
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/manifestazione-di-disponibilita-per-l-interpello-relativo-alla-copertura-di-un-posto-vacante-e-disponibile-per-il-profilo-di-docente-di-classe-di-conc"
+  },
+  "20d9ca18db": {
+   "canale": "email",
+   "classe": "AM2A",
+   "creato": "2026-10-16T07:34:43",
+   "destinatario": "cais011007@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "modulo allegato"
+   ],
+   "scadenza": "",
+   "scuola": "ISTITUTO D’ISTRUZIONE SUPERIORE “BECCARIA – E. LOI”",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-n-6-ore-classe-di-concorso-as2a-lingua-francese-presso-iis-beccaria-e-loi-carbonia-"
   },
   "2a4c174d8b": {
    "canale": "email",
@@ -40,6 +89,139 @@
    "sede": "Spezzone orario 5 ore Fino al 30.06.2027 I.I.S.”Zappa Pitagora“ Isili",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-tedesco-classe-di-concorso-bd02-a-s-2026"
   },
+  "2adb474023": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-16T07:34:36",
+   "destinatario": "cais00100l@istruzione.it",
+   "durata": "fino al 08/06/2027",
+   "ore": "7 ore settimanali",
+   "richiede": [],
+   "scadenza": "",
+   "scuola": "Liceo Scientifico",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-il-conferimento-di-una-sup-plenza-su-n-1-posto-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-isti-tuti-di-istruzione-di-ii"
+  },
+  "2eb6f00a6d": {
+   "canale": "email",
+   "classe": "AS02",
+   "creato": "2026-10-16T07:33:59",
+   "destinatario": "cais032008@istruzione.it",
+   "durata": "fino al 03.12.2026",
+   "ore": "19 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto",
+   "sede": "Cattedra intera 19 ore Fino al 03.12.2026 I.I.S.”Zappa Pitagora“ Isili",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-france"
+  },
+  "3aafffb469": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-16T07:34:46",
+   "destinatario": "capc06000p@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "6 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto e in quelle delle scuole viciniori;",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-fra"
+  },
+  "41338f5dd7": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-16T07:33:54",
+   "destinatario": "cais01600a@istruzione.it",
+   "durata": "fino al 30/06/2027",
+   "ore": "",
+   "richiede": [
+    "codice fiscale"
+   ],
+   "scadenza": "2026-10-20T12:00:00",
+   "scuola": "ISTITUTO ISTRUZIONE SUPERIORE STATALE",
+   "sede": "CATD016512 corso serale LEVI indirizzo Economico Quartu Sant’Elena",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-a-s-2026-27-c-d-c-as2a-lingue-e-culture-straniere-francese-6-ore-primo-levi-quartu-sant-elena"
+  },
+  "53554c571a": {
+   "canale": "email",
+   "classe": "A051",
+   "creato": "2026-10-16T07:34:30",
+   "destinatario": "cais02800l@istruzione.it",
+   "durata": "fino al 30/06/2027",
+   "ore": "",
+   "richiede": [],
+   "scadenza": "",
+   "scuola": "Istituto",
+   "sede": "Spezzone orario",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a051-scienze-tecnologie-e-tecniche-agrarie-iis-einaudi-senorbi-corso-serale-isili-corso-serale-senorbi"
+  },
+  "664cc3ba04": {
+   "canale": "email",
+   "classe": "A011",
+   "creato": "2026-10-16T07:33:35",
+   "destinatario": "cais00100l@istruzione.it",
+   "durata": "fino al 22/12/2026",
+   "ore": "18 ore settimanali",
+   "richiede": [],
+   "scadenza": "",
+   "scuola": "Liceo Scientifico",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-classe-di-concorso-a011-discipline-letterarie-e-la-tino-presso-l-istituto-d-istruzione-superiore-a-gramsci-e-amaldi-car"
+  },
+  "7e11530727": {
+   "canale": "email",
+   "classe": "AM2A",
+   "creato": "2026-10-16T07:33:49",
+   "destinatario": "cais011007@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "modulo allegato"
+   ],
+   "scadenza": "",
+   "scuola": "ISTITUTO D’ISTRUZIONE SUPERIORE “BECCARIA – E. LOI”",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-n-6-ore-classe-di-concorso-as2a-lingua-francese-presso-iis-beccaria-e-loi-carboni"
+  },
+  "8d7943d700": {
+   "canale": "?",
+   "classe": "",
+   "creato": "2026-10-16T07:34:54",
+   "destinatario": "",
+   "durata": "",
+   "ore": "",
+   "richiede": [
+    "codice fiscale"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto Globale Carloforte",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/rettifica-in-autotutela-dell-avviso-di-interpello-prot-n-10713-01-10-2026-per-la-selezione-di-personale-docente-per-la-copertura-di-due-cattedre-a043-"
+  },
+  "8fde3b5767": {
+   "canale": "email",
+   "classe": "A013",
+   "creato": "2026-10-16T07:33:42",
+   "destinatario": "cais00100l@istruzione.it",
+   "durata": "fino al 30/06/2027",
+   "ore": "12 ore settimanali",
+   "richiede": [],
+   "scadenza": "",
+   "scuola": "Liceo Scientifico",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-a013-discipline-letterarie-latino-e-greco-i-i-s-gramsci-amaldi-carbonia-ca"
+  },
   "912ff907da": {
    "canale": "email",
    "classe": "BB02",
@@ -56,6 +238,36 @@
    "sede": "Spezzone orario 5 ore Fino al 30.06.2027 I.I.S.”Zappa Pitagora“ Isili",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-inglese-classe-di-concorso-bb02-a-s-2026"
   },
+  "d33e727ab0": {
+   "canale": "portale Argo",
+   "classe": "",
+   "creato": "2026-10-16T07:33:52",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "dal 17.10.2026 al 30.06.2027",
+   "ore": "7 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-10-16T11:30:00",
+   "scuola": "ISTITUTO DI ISTRUZIONE SUPERIORE",
+   "sede": "SEDE CARCERARIA-CASA CIRCONDARILAE “E.SCALAS” UTA",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta-2"
+  },
+  "d8a44db68a": {
+   "canale": "email",
+   "classe": "A041",
+   "creato": "2026-10-16T07:34:50",
+   "destinatario": "cais02800l@istruzione.it",
+   "durata": "fino al 30/06/2027",
+   "ore": "2 ore settimanali",
+   "richiede": [],
+   "scadenza": "",
+   "scuola": "Istituto",
+   "sede": "Spezzone orario",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-procedura-gestione-supplenze-per-le-graduatorie-di-istituto-esaurite-a-norma-dell-art-14-c-22-o-m-27-2026-classe-di-concorso-a041"
+  },
   "e09adf1b21": {
    "canale": "portale Argo",
    "classe": "",
@@ -68,13 +280,30 @@
    "scuola": "Istituto",
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-la-selezione-di-n-1-docente-progetto-progressi-linea-recuperiamo-posto-lingua-inglese-a-s-2026-2027-istituto-comprensivo-stat"
+  },
+  "e46419756e": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-16T07:34:17",
+   "destinatario": "cais02100t@istruzione.it",
+   "durata": "dal 13/10/2026 al 30/06/2027",
+   "ore": "3 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto di Istruzione Superiore Statale “VIGNARELLI” SANLURI",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-13-10-2026-al-30-06-2027-n-3-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2"
   }
  },
  "stato": {
-  "fallimenti": 3868,
+  "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-02T10:57:17",
-  "ultimo_nuovo": "2026-10-01",
+  "ultimo_giro": "2026-10-16T07:34:59",
+  "ultimo_nuovo": "2026-10-16",
   "update_offset": 406093743
  },
  "visti": {
@@ -86,6 +315,22 @@
    "titolo": "1 ° Interpello per supplenza su classe di concorso A042 - SCIENZE E TECNOLOGIE MECCANICHE – URGENTE I.P.I.A. “G. Ferraris” Iglesias",
    "visto_il": "2026-08-26T20:40:41"
   },
+  "https://www.mim.gov.it/web/cagliari/-/1-interpello-per-supplenza-su-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-francese-i-p-i-a-g-ferraris-": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-13",
+   "scadenza": "2026-10-13 12:00:00",
+   "titolo": "1 ° Interpello per supplenza su classe di concorso AS2A - LINGUE E CULTURE STRANIERE NEGLI ISTITUTI DI ISTRUZIONE DI II GRADO (FRANCESE) - I.P.I.A. “G. FERRARIS” - IGLESIAS - URGENTE",
+   "visto_il": "2026-10-16T07:34:06"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/2-avviso-di-interpello-per-la-copertura-di-n-1-spezzone-di-6-ore-fino-al-termine-delle-attivita-didattiche-30-06-2027-per-la-classe-di-concorso-am2a-l": {
+   "classe": "AM2A",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-08",
+   "scadenza": "2026-10-14 09:00:00",
+   "titolo": "2° Avviso di INTERPELLO per la copertura di n. 1 spezzone di 6 ore fino al termine delle attività didattiche (30/06/2027) per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE), ai sensi dell’Articolo 14, comma 22, dell’O.M. n. 27/2026 – IC SAN NICOLO’ GERREI",
+   "visto_il": "2026-10-16T07:34:20"
+  },
   "https://www.mim.gov.it/web/cagliari/-/2-interpello-nazionale-classe-di-concorso-am01-arte-e-immagine-nella-scuola-secondaria-di-primo-grado-i-c-l-pitzalis-nurri": {
    "classe": "",
    "esito": "scaduto",
@@ -94,6 +339,14 @@
    "titolo": "2 Interpello nazionale classe di concorso – AM01 - Arte e Immagine nella scuola secondaria di primo grado – I.C. L. Pitzalis NURRI",
    "visto_il": "2026-10-01T11:15:31"
   },
+  "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-il-conferimento-di-una-sup-plenza-su-n-1-posto-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-isti-tuti-di-istruzione-di-ii": {
+   "classe": "",
+   "esito": "notificato",
+   "pubblicato": "2026-10-06",
+   "scadenza": "",
+   "titolo": "2° Interpello per il conferimento di una sup-plenza su n. 1 posto/classe di concorso AS2A – Lingue e culture straniere negli isti-tuti di istruzione di II grado (Francese), per n. 7 ore settimanali, fino al 08/06/2027 – A.S. 2026/2027 – IIS “Antonio Gramsci – Edoar-do Amaldi\" CARBONIA",
+   "visto_il": "2026-10-16T07:34:41"
+  },
   "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-breve-fino-al-08-06-2026-classe-di-concorso-a027-matematica-e-fisica-a-s-2025-26-liceo-classico-statale-e-piga-villacidro-s": {
    "classe": "",
    "esito": "preesistente",
@@ -101,6 +354,22 @@
    "scadenza": "",
    "titolo": "2^ INTERPELLO PER SUPPLENZA BREVE FINO AL 08/06/2026 CLASSE DI CONCORSO A027 MATEMATICA E FISICA -A. S. 2025/26. LICEO CLASSICO STATALE “E. PIGA” VILLACIDRO (SU)",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-f": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-14",
+   "scadenza": "",
+   "titolo": "2° Interpello per supplenza fino al termine delle attività didattiche, 6 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027- LICEO CLASSICO STATALE “E. PIGA” VILLACIDRO",
+   "visto_il": "2026-10-16T07:33:57"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-n-6-ore-classe-di-concorso-as2a-lingua-francese-presso-iis-beccaria-e-loi-carboni": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-15",
+   "scadenza": "",
+   "titolo": "2° Interpello per supplenza fino al termine delle attività didattiche n. 6 ore classe di concorso AS2A- lingua francese – presso IIS “BECCARIA – E. LOI” CARBONIA - Corso serale AFM",
+   "visto_il": "2026-10-16T07:33:50"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-13-c-23-o-m-88-2024-anno-scolastico-2025-26-c-d-c-a011-discipline-letterarie-e-latino-7-ore-convitto-nazionale-cagliari": {
    "classe": "",
@@ -117,6 +386,38 @@
    "scadenza": "",
    "titolo": "INTERPELLO A NORMA DELL’ART. 13, c. 23, O.M. 88/2024 – ANNO SCOLASTICO 2025/26 C.D.C AS2B –LINGUE E CULTURE STRANIERE INGLESE. CONVITTO NAZIONALE STATALE “VITTORIO EMANUELE II” CAGLIARI",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-13-c-23-o-m-88-2024-anno-scolastico-2026-2027-c-d-c-am2c-seconda-lingua-comunitaria-spagnolo-n-18-ore-sino-al-21-10-2026-i": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-06",
+   "scadenza": "2026-10-09 12:00:00",
+   "titolo": "INTERPELLO a norma dell’art. 13, c. 23, O.M. 88/2024 - anno scolastico 2026/2027 – C.D.C AM2C Seconda lingua comunitaria- spagnolo – n. 18 ore sino al 21.10.2026 – ISTITUTO GLOBALE SANT’ANTIOCO",
+   "visto_il": "2026-10-16T07:34:28"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-13-c-23-o-m-88-2024-anno-scolastico-2026-2027-c-d-c-bd02-conversazione-in-lingua-straniera-tedesco-n-04-ore-sino-al-30-06-": {
+   "classe": "BD02",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-06",
+   "scadenza": "2026-10-12 10:00:00",
+   "titolo": "INTERPELLO a norma dell’art. 13, c. 23, O.M. 88/2024 - anno scolastico 2026/2027 – C.D.C BD02 Conversazione in lingua straniera Tedesco – n. 04 ore sino al 30.06.2027",
+   "visto_il": "2026-10-16T07:34:26"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-a-s-2026-27-c-d-c-as2a-lingue-e-culture-straniere-francese-6-ore-primo-levi-quartu-sant-elena": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-15",
+   "scadenza": "",
+   "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - a.s. 2026/27 C.D.C AS2A –Lingue e culture straniere francese – 6 ore “Primo Levi” Quartu Sant’Elena",
+   "visto_il": "2026-10-16T07:33:55"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a013-discipline-letterarie-latino-e-greco-i-i-s-gramsci-amaldi-carbonia-ca": {
+   "classe": "A013",
+   "esito": "notificato",
+   "pubblicato": "2026-10-15",
+   "scadenza": "",
+   "titolo": "Interpello A013 Discipline letterarie, latino e greco. I.I.S. “Gramsci Amaldi” Carbonia CA",
+   "visto_il": "2026-10-16T07:33:47"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-a013-discipline-letterarie-latino-e-greco-liceo-classico-linguistico-e-scienze-umane-quartu-sant-elena": {
    "classe": "",
@@ -246,6 +547,14 @@
    "titolo": "INTERPELLO FINALIZZATO ALL’INDIVIDUAZIONE DI PER-SONALE DOCENTE DISPONIBILE AL CONFERIMENTO DI SUPPLENZA PER L’INSEGNAMENTO DI: A043 – SCIENZE E TECNOLOGIE NAUTICHE POSTO ORARIO 6 ORE FINO AL 30/06/2027 IIS “BUCCARI MARCONI” - CAGLIARI",
    "visto_il": "2026-09-28T08:05:32"
   },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-finalizzato-all-individuazione-di-personale-docente-disponibile-al-conferimento-di-supplenza-per-l-insegnamento-di-a043-scienze-e-tecnologi": {
+   "classe": "A043",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-05",
+   "scadenza": "2026-10-12 12:00:00",
+   "titolo": "INTERPELLO FINALIZZATO ALL’INDIVIDUAZIONE DI PERSONALE DOCENTE DISPONIBILE AL CONFERIMENTO DI SUPPLENZA PER L’INSEGNAMENTO DI: A043 – SCIENZE E TECNOLOGIE NAUTICHE – 2 Cattedre - A.S. 2026/27 ISTITUTO GLOBALE CARLOFORTE.",
+   "visto_il": "2026-10-16T07:34:59"
+  },
   "https://www.mim.gov.it/web/cagliari/-/interpello-individuazione-docenti-scuola-secondaria-di-secondo-grado-in-possesso-di-idoneo-titolo-di-studio-per-la-classe-di-concorso-a011-discipline-": {
    "classe": "",
    "esito": "preesistente",
@@ -334,6 +643,14 @@
    "titolo": "Interpello nazionale per il conferimento di supplenze per l’insegnamento di Conversazione in lingua straniera ( Tedesco ) – classe di concorso BD02 – a.s. 2026/2027 – I.I.S. ZAPPA PITAGORA DI ISILI",
    "visto_il": "2026-09-29T11:59:56"
   },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-france": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-14",
+   "scadenza": "",
+   "titolo": "Interpello nazionale per il conferimento di supplenze per l’insegnamento di Lingue e culture straniere negli istituti di istruzione di II grado (Francese) – classe di concorso AS2A – a.s. 2026/2027 – “ZAPPA-PITAGORA” ISILI",
+   "visto_il": "2026-10-16T07:34:00"
+  },
   "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-nomina-supplenza-breve-fino-al-30-05-2026-classe-di-concorso-as2b-lingua-e-culture-straniere-inglese-istituto-di-istruzione-s": {
    "classe": "",
    "esito": "preesistente",
@@ -349,6 +666,14 @@
    "scadenza": "",
    "titolo": "Interpello Nazionale per supplenza su classe di concorso A041 - Scienze e Tecnologie Informatiche._ITE “MARTINI”_CAGLIARI",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-procedura-gestione-supplenze-per-le-graduatorie-di-istituto-esaurite-a-norma-dell-art-14-c-22-o-m-27-2026-classe-di-concorso-a041": {
+   "classe": "A041",
+   "esito": "notificato",
+   "pubblicato": "2026-10-05",
+   "scadenza": "",
+   "titolo": "INTERPELLO NAZIONALE - Procedura Gestione Supplenze per le Graduatorie di Istituto esaurite - a norma dell 'art. 14, c. 22, O.M. 27/2026 – Classe di concorso A041 - Scienze e tecnologie informatiche per n. 2 ore settimanali fino al 30/06/2027",
+   "visto_il": "2026-10-16T07:34:52"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-conferimento-incarico-temporaneo-supplenza-breve-classe-di-concorso-am2b-inglese-iscol-progetto-progressi-istituto-comprensivo-statale-": {
    "classe": "",
@@ -446,6 +771,14 @@
    "titolo": "Interpello per la copertura di n.1 supplenza temporanea per posto comune Scuola Primaria EEEE con certificazione linguistica abilitante all’insegnamento della Lingua Inglese",
    "visto_il": "2026-08-26T20:40:41"
   },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-personale-docente-scuola-primaria-su-posto-lingua-inglese-eeil-ai-sensi-dell-art-14-comma-22-dell-o-m-n-27-2026-supplenz-1": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-12",
+   "scadenza": "2026-10-13 12:00:00",
+   "titolo": "INTERPELLO per la selezione personale docente scuola PRIMARIA su posto LINGUA INGLESE (EEIL) ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026. Supplenza fino al termine delle attività didattiche 3 h. dal 14/10/2026 fino al 30/06/2027, presso l’Istituto Comprensivo “Ernesto Puxeddu” – Villasor.",
+   "visto_il": "2026-10-16T07:34:12"
+  },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-personale-docente-scuola-primaria-su-posto-sostegno-adee-ai-sensi-dell-art-13-comma-23-dell-o-m-n-88-2024": {
    "classe": "",
    "esito": "preesistente",
@@ -461,6 +794,38 @@
    "scadenza": "2026-09-28 08:00:00",
    "titolo": "INTERPELLO per la selezione personale docente scuola secondaria di 1° grado su classe di concorso AK56 strumento musicale saxofono, ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026. Supplenza annuale fino al 31/08/2027",
    "visto_il": "2026-09-29T12:45:38"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-personale-docente-scuola-secondaria-di-ii-grado-su-classe-di-concorso-ak55-strumento-musicale-saxofono-ai-sensi-dell-art-1": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-07",
+   "scadenza": "2026-10-08 14:00:00",
+   "titolo": "INTERPELLO per la selezione personale docente scuola secondaria di II° grado su classe di concorso AK55 strumento musicale saxofono, ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026. Supplenza fino al termine delle attività didattiche ( 30.06.2026)",
+   "visto_il": "2026-10-16T07:34:24"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-e-piga-villacidro": {
+   "classe": "A013",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-05",
+   "scadenza": "2026-10-06 08:30:00",
+   "titolo": "Interpello per la supplenza classe di concorso – A013 - Discipline Letterarie, Latino e Greco – L.C. “e. Piga” Villacidro",
+   "visto_il": "2026-10-16T07:34:56"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a051-scienze-tecnologie-e-tecniche-agrarie-iis-beccaria-loi-carbonia-presso-corso-serale-santadi": {
+   "classe": "A051",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-05",
+   "scadenza": "2026-10-08 08:00:00",
+   "titolo": "Interpello per la supplenza classe di concorso – A051 - Scienze, tecnologie e tecniche agrarie – IIS BECCARIA LOI CARBONIA presso CORSO SERALE SANTADI",
+   "visto_il": "2026-10-16T07:34:48"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a051-scienze-tecnologie-e-tecniche-agrarie-iis-einaudi-senorbi-corso-serale-isili-corso-serale-senorbi": {
+   "classe": "A051",
+   "esito": "notificato",
+   "pubblicato": "2026-10-06",
+   "scadenza": "",
+   "titolo": "Interpello per la supplenza classe di concorso – A051 - Scienze, tecnologie e tecniche agrarie – IIS EINAUDI SENORBI’ corso serale Isili – corso serale Senorbì",
+   "visto_il": "2026-10-16T07:34:34"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-1-posto-classe-di-concorso-adee-posto-sostegno-scuola-primaria-ic-villasor": {
    "classe": "",
@@ -485,6 +850,14 @@
    "scadenza": "",
    "titolo": "Interpello per N° 1 POSTO h. 24 + N. 1 POSTO h. 12 sino al 08/06/2026 Classe di concorso ADEE Posto SOSTEGNO scuola primaria.",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-1-supplenza-su-classe-di-concorso-a040-a-s-2026-27-17-ore-sino-al-termine-delle-attivita-didattiche-sede-di-servizio-cagliari-e-villa": {
+   "classe": "A040",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-12",
+   "scadenza": "2026-10-13 13:00:00",
+   "titolo": "INTERPELLO per N. 1 supplenza su classe di concorso A040 – A. S. 2026/27 – 17 ore sino al termine delle attività didattiche - sede di servizio Cagliari e Villaputzu-CA - ISTITUTO DI ISTRUZIONE SUPERIORE “MICHELE GIUA”",
+   "visto_il": "2026-10-16T07:34:07"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-2-posti-classe-di-concorso-adee-posto-sostegno-scuola-primaria_ic-guasila": {
    "classe": "",
@@ -534,6 +907,14 @@
    "titolo": "INTERPELLO PER SUPPLENZA ADEE – SOSTEGNO SCUOLA PRIMARIA",
    "visto_il": "2026-08-26T20:40:41"
   },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-classe-di-concorso-a011-discipline-letterarie-e-la-tino-presso-l-istituto-d-istruzione-superiore-a-gramsci-e-amaldi-car": {
+   "classe": "A011",
+   "esito": "notificato",
+   "pubblicato": "2026-10-15",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza breve classe di concorso: A011 - Discipline letterarie e la-tino presso l’Istituto d’Istruzione Superiore “A. Gramsci – E. Amaldi” CARBONIA per n. 18 ore settimanali fino al 22/12/2026",
+   "visto_il": "2026-10-16T07:33:40"
+  },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-e-saltuaria-docente-scuola-primaria-posto-comune-24-ore-settimanali-plesso-domus-de-maria": {
    "classe": "",
    "esito": "preesistente",
@@ -582,6 +963,70 @@
    "titolo": "INTERPELLO PER SUPPLENZA BREVE N.1 CATTEDRA CLASSE DI CONCORSO AS2B – INGLESE – ISTITUTO DI ISTRUZIONE SUPERIORE “BECCARIA – E. LOI” CARBONIA – SEDE DI VIA DALMAZIA",
    "visto_il": "2026-08-26T20:40:41"
   },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-13-10-2026-al-29-01-2027-n-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-08",
+   "scadenza": "2026-10-09 10:00:00",
+   "titolo": "Interpello per supplenza dal 13/10/2026 al 29/01/2027, n. 6 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027 – IISS “VIGNARELLI” SANLURI",
+   "visto_il": "2026-10-16T07:34:14"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-13-10-2026-al-30-06-2027-n-3-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-08",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza dal 13/10/2026 al 30/06/2027, n. 3 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027 – “VIGNARELLI” SANLURI",
+   "visto_il": "2026-10-16T07:34:18"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-fra": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-06",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza fino al termine delle attività didattiche, 6 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027 - LICEO CLASSICO STATALE “E. Piga” VILLACIDRO",
+   "visto_il": "2026-10-16T07:34:46"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-n-6-ore-classe-di-concorso-as2a-lingua-francese-presso-iis-beccaria-e-loi-carbonia-": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-06",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza fino al termine delle attività didattiche n. 6 ore classe di concorso AS2A- lingua francese – presso IIS “BECCARIA – E. LOI” CARBONIA - Corso serale AFM",
+   "visto_il": "2026-10-16T07:34:44"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-08",
+   "scadenza": "2026-10-09 10:00:00",
+   "titolo": "Interpello per supplenza sino al termine delle attività didattiche su classe di concorso AS2A - 7 ore presso la Sede Carceraria di Uta",
+   "visto_il": "2026-10-16T07:34:16"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta-1": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-13",
+   "scadenza": "2026-10-15 08:00:00",
+   "titolo": "Interpello per supplenza sino al termine delle attività didattiche su classe di concorso AS2A - 7 ore presso la Sede Carceraria di Uta",
+   "visto_il": "2026-10-16T07:34:02"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta-2": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-15",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza sino al termine delle attività didattiche su classe di concorso AS2A - 7 ore presso la Sede Carceraria di Uta",
+   "visto_il": "2026-10-16T07:33:52"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-as2d-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-secondo-grado-tedesco-6-h-sett-li-corso-serale-a-s-202": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-12",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA SU CDC AS2D -Lingue e culture straniere negli istituti di istruzione di secondo grado (Tedesco) - 6 h. sett.li corso serale. A. S. 2026/27. ISTITUTO DI ISTRUZIONE SECONDARIA SUPERIORE “GIUSEPPE DESSI” VILLAPUTZU.",
+   "visto_il": "2026-10-16T07:34:10"
+  },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-a026-matematica-progetto-progressi-linea-recuperiamo-a-s-2025-2026-i-p-i-a-g-ferraris-iglesias": {
    "classe": "",
    "esito": "preesistente",
@@ -589,6 +1034,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A026 – MATEMATICA (Progetto Progressi - Linea Recuperiamo) A. S. 2025/2026. I.P.I.A. “G. FERRARIS” – IGLESIAS",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-francese-urgente-ipia-g-ferrar": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-08",
+   "scadenza": "2026-10-09 13:00:00",
+   "titolo": "Interpello per supplenza su classe di concorso AS2A - LINGUE E CULTURE STRANIERE NEGLI ISTITUTI DI ISTRUZIONE DI II GRADO (FRANCESE) – URGENTE – IPIA “G. FERRARIS” - IGLESIAS",
+   "visto_il": "2026-10-16T07:34:22"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2b-istituto-d-istruzione-superiore-marconi-lussu-san-gavino-monreale": {
    "classe": "",
@@ -605,6 +1058,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO AS2B - ISTITUTO D’ISTRUZIONE SUPERIORE “MARCONI- LUSSU” SAN GAVINO MONREALE. Durata della supplenza dalla presa di servizio fino al 23/05/2026",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2c-lingue-e-culture-straniere-nell-istruzione-secondaria-di-ii-grado-spagnolo-asproni-fermi-iglesias": {
+   "classe": "",
+   "esito": "scaduto",
+   "pubblicato": "2026-10-13",
+   "scadenza": "2026-10-14 12:00:00",
+   "titolo": "Interpello per supplenza su classe di concorso AS2C Lingue e culture straniere nell'istruzione secondaria di II grado (Spagnolo) – ASPRONI-FERMI - IGLESIAS",
+   "visto_il": "2026-10-16T07:34:04"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-educazione-motoria-eeem": {
    "classe": "",
@@ -677,6 +1138,14 @@
    "scadenza": "",
    "titolo": "PROROGA INTERPELLO per la copertura di n. 1 supplenza temporanea per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE)_I.C. Selargius 1",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/rettifica-in-autotutela-dell-avviso-di-interpello-prot-n-10713-01-10-2026-per-la-selezione-di-personale-docente-per-la-copertura-di-due-cattedre-a043-": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-05",
+   "scadenza": "",
+   "titolo": "RETTIFICA IN AUTOTUTELA DELL’AVVISO DI INTERPELLO PROT. N. 10713/01.10.2026 PER LA SELEZIONE DI PERSONALE DOCENTE PER LA COPERTURA DI DUE CATTEDRE A043 – SCIENZE E TECNOLOGIE NAUTICHE – ABBREVIAZIONE DEI TERMINI DI PRESENTAZIONE DELLE CANDIDATURE. ISTITUTO GLOBALE CARLOFORTE.",
+   "visto_il": "2026-10-16T07:34:54"
   },
   "https://www.mim.gov.it/web/cagliari/-/urgente-trasmissione-avviso-di-interpello-per-classe-di-concorso-am12-ex-a022-scadenza-supplenza-29-05-2026-oric81400e": {
    "classe": "",
