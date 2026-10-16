@@ -73,6 +73,22 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-n-6-ore-classe-di-concorso-as2a-lingua-francese-presso-iis-beccaria-e-loi-carbonia-"
   },
+  "29b58b6152": {
+   "canale": "portale Argo",
+   "classe": "",
+   "creato": "2026-10-16T09:41:37",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "",
+   "ore": "12 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità"
+   ],
+   "scadenza": "2026-10-22T23:59:00",
+   "scuola": "ISTITUTO COMPRENSIVO DI VILLAPUTZU MURAVERA",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-ab56-strumento-musicale-nella-scuola-secondaria-di-primo-grado-chitarra-"
+  },
   "2a4c174d8b": {
    "canale": "email",
    "classe": "BD02",
@@ -319,7 +335,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-16T09:36:34",
+  "ultimo_giro": "2026-10-16T09:41:38",
   "ultimo_nuovo": "2026-10-16",
   "update_offset": 406093743
  },
@@ -1059,6 +1075,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER SUPPLENZA SU CLASSE DI CONCORSO A026 – MATEMATICA (Progetto Progressi - Linea Recuperiamo) A. S. 2025/2026. I.P.I.A. “G. FERRARIS” – IGLESIAS",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-ab56-strumento-musicale-nella-scuola-secondaria-di-primo-grado-chitarra-": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-16",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza su classe di concorso AB56 – Strumento musicale nella Scuola Secondaria di primo grado (Chitarra)",
+   "visto_il": "2026-10-16T09:41:38"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-francese-urgente-ipia-g-ferrar": {
    "classe": "",
