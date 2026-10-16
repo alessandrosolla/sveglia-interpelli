@@ -297,12 +297,29 @@
    "scuola": "Istituto di Istruzione Superiore Statale “VIGNARELLI” SANLURI",
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-13-10-2026-al-30-06-2027-n-3-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2"
+  },
+  "f07dfac000": {
+   "canale": "email",
+   "classe": "A041",
+   "creato": "2026-10-16T08:40:46",
+   "destinatario": "cais032008@istruzione.it",
+   "durata": "fino al 30.06.2027",
+   "ore": "8 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto",
+   "sede": "Spezzone orario 8 ore Fino al 30.06.2027 I.I.S.”Zappa Pitagora“ Isili",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-scienze-e-tecnologie-informatiche-classe-di-concorso-a041-a-s-2026-2027"
   }
  },
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-16T08:35:40",
+  "ultimo_giro": "2026-10-16T08:40:47",
   "ultimo_nuovo": "2026-10-16",
   "update_offset": 406093743
  },
@@ -650,6 +667,14 @@
    "scadenza": "",
    "titolo": "Interpello nazionale per il conferimento di supplenze per l’insegnamento di Lingue e culture straniere negli istituti di istruzione di II grado (Francese) – classe di concorso AS2A – a.s. 2026/2027 – “ZAPPA-PITAGORA” ISILI",
    "visto_il": "2026-10-16T07:34:00"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-scienze-e-tecnologie-informatiche-classe-di-concorso-a041-a-s-2026-2027": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-16",
+   "scadenza": "",
+   "titolo": "Interpello nazionale per il conferimento di supplenze per l’insegnamento di Scienze e tecnologie informatiche - classe di concorso A041 - a.s. 2026/2027",
+   "visto_il": "2026-10-16T08:40:46"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-nomina-supplenza-breve-fino-al-30-05-2026-classe-di-concorso-as2b-lingua-e-culture-straniere-inglese-istituto-di-istruzione-s": {
    "classe": "",
