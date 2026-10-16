@@ -168,6 +168,22 @@
    "sede": "CATD016512 corso serale LEVI indirizzo Economico Quartu Sant’Elena",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-a-s-2026-27-c-d-c-as2a-lingue-e-culture-straniere-francese-6-ore-primo-levi-quartu-sant-elena"
   },
+  "5219f5717e": {
+   "canale": "portale Argo",
+   "classe": "",
+   "creato": "2026-10-16T10:01:52",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "",
+   "ore": "6 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità"
+   ],
+   "scadenza": "2026-10-22T23:59:00",
+   "scuola": "ISTITUTO COMPRENSIVO DI VILLAPUTZU MURAVERA",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-ab56-strumento-musicale-nella-scuola-secondaria-di-primo-grado-chitarra--1"
+  },
   "53554c571a": {
    "canale": "email",
    "classe": "A051",
@@ -335,7 +351,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-16T09:56:47",
+  "ultimo_giro": "2026-10-16T10:01:52",
   "ultimo_nuovo": "2026-10-16",
   "update_offset": 406093743
  },
@@ -1083,6 +1099,14 @@
    "scadenza": "",
    "titolo": "Interpello per supplenza su classe di concorso AB56 – Strumento musicale nella Scuola Secondaria di primo grado (Chitarra)",
    "visto_il": "2026-10-16T09:41:38"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-ab56-strumento-musicale-nella-scuola-secondaria-di-primo-grado-chitarra--1": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-16",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza su classe di concorso AB56 – Strumento musicale nella Scuola Secondaria di primo grado (Chitarra)",
+   "visto_il": "2026-10-16T10:01:52"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-francese-urgente-ipia-g-ferrar": {
    "classe": "",
