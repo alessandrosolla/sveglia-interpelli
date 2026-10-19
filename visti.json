@@ -351,8 +351,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-19T08:33:51",
-  "ultimo_nuovo": "2026-10-16",
+  "ultimo_giro": "2026-10-19T08:38:55",
+  "ultimo_nuovo": "2026-10-19",
   "update_offset": 406093743
  },
  "visti": {
@@ -1051,6 +1051,14 @@
    "scadenza": "",
    "titolo": "Interpello per supplenza fino al termine delle attività didattiche n. 6 ore classe di concorso AS2A- lingua francese – presso IIS “BECCARIA – E. LOI” CARBONIA - Corso serale AFM",
    "visto_il": "2026-10-16T07:34:44"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-fino-all-8-06-2027-cdc-a033-scienze-e-tecnologie-aeronautiche-a-s-2026-2027-istittuto-di-istruzione-superiore-d-scano-o-bacar": {
+   "classe": "",
+   "esito": "senza_pdf",
+   "pubblicato": "2026-10-19",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA FINO ALL’ 8/06/2027 - CDC - A033 (SCIENZE E TECNOLOGIE AERONAUTICHE) a.s.2026/2027 - ISTITTUTO DI ISTRUZIONE SUPERIORE “D. SCANO – O. BACAREDDA” CAGLIARI",
+   "visto_il": "2026-10-19T08:38:55"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta": {
    "classe": "",
