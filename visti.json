@@ -270,6 +270,24 @@
    "sede": "Spezzone orario 5 ore Fino al 30.06.2027 I.I.S.”Zappa Pitagora“ Isili",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-inglese-classe-di-concorso-bb02-a-s-2026"
   },
+  "a3ac37250a": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-19T09:59:50",
+   "destinatario": "capc06000p@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "6 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto e in quelle delle scuole viciniori;",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/3-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-30-06-2027-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-"
+  },
   "d33e727ab0": {
    "canale": "portale Argo",
    "classe": "",
@@ -351,7 +369,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-19T09:54:45",
+  "ultimo_giro": "2026-10-19T09:59:51",
   "ultimo_nuovo": "2026-10-19",
   "update_offset": 406093743
  },
@@ -419,6 +437,14 @@
    "scadenza": "",
    "titolo": "2° Interpello per supplenza fino al termine delle attività didattiche n. 6 ore classe di concorso AS2A- lingua francese – presso IIS “BECCARIA – E. LOI” CARBONIA - Corso serale AFM",
    "visto_il": "2026-10-16T07:33:50"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/3-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-30-06-2027-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-19",
+   "scadenza": "",
+   "titolo": "3°Interpello per supplenza fino al termine delle attività didattiche (30/06/2027), 6 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027- LICEO CLASSICO STATALE “E. PIGA” VILLACIDRO",
+   "visto_il": "2026-10-19T09:59:51"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-13-c-23-o-m-88-2024-anno-scolastico-2025-26-c-d-c-a011-discipline-letterarie-e-latino-7-ore-convitto-nazionale-cagliari": {
    "classe": "",
