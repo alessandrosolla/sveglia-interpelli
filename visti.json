@@ -288,6 +288,23 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/3-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-30-06-2027-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-"
   },
+  "d1e9b76ca3": {
+   "canale": "portale Argo",
+   "classe": "",
+   "creato": "2026-10-20T15:54:21",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "dal 22.10.2026 al 30.06.2027",
+   "ore": "7 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-10-21T13:15:00",
+   "scuola": "ISTITUTO DI ISTRUZIONE SUPERIORE",
+   "sede": "SEDE CARCERARIA-CASA CIRCONDARILAE “E.SCALAS” UTA",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta-3"
+  },
   "d33e727ab0": {
    "canale": "portale Argo",
    "classe": "",
@@ -369,8 +386,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-20T15:49:16",
-  "ultimo_nuovo": "2026-10-19",
+  "ultimo_giro": "2026-10-20T15:54:21",
+  "ultimo_nuovo": "2026-10-20",
   "update_offset": 406093743
  },
  "visti": {
@@ -1109,6 +1126,14 @@
    "scadenza": "",
    "titolo": "Interpello per supplenza sino al termine delle attività didattiche su classe di concorso AS2A - 7 ore presso la Sede Carceraria di Uta",
    "visto_il": "2026-10-16T07:33:52"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta-3": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-20",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza sino al termine delle attività didattiche su classe di concorso AS2A - 7 ore presso la Sede Carceraria di Uta",
+   "visto_il": "2026-10-20T15:54:21"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-as2d-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-secondo-grado-tedesco-6-h-sett-li-corso-serale-a-s-202": {
    "classe": "",
