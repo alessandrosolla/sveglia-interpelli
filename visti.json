@@ -118,6 +118,24 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-il-conferimento-di-una-sup-plenza-su-n-1-posto-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-isti-tuti-di-istruzione-di-ii"
   },
+  "2df4b6bf2e": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-21T09:10:20",
+   "destinatario": "caic875002@istruzione.it",
+   "durata": "",
+   "ore": "18 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-10-24T12:00:00",
+   "scuola": "Istituto Comprensivo Statale “F. Meloni”",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-il-conferimento-di-una-supplenza-per-la-classe-di-concorso-aa22-francese-a-s-2026-2027-sec-i-gra-do-ics-f-meloni-domusnovas"
+  },
   "2eb6f00a6d": {
    "canale": "email",
    "classe": "AS02",
@@ -422,7 +440,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-21T09:05:15",
+  "ultimo_giro": "2026-10-21T09:10:21",
   "ultimo_nuovo": "2026-10-21",
   "update_offset": 406093743
  },
@@ -1274,6 +1292,14 @@
    "scadenza": "",
    "titolo": "Interpello Regionale n. 2 per la selezione di n. 1 docente posto comune scuola primaria Isili - supplenza breve e saltuaria a.s. 2025-26",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-il-conferimento-di-una-supplenza-per-la-classe-di-concorso-aa22-francese-a-s-2026-2027-sec-i-gra-do-ics-f-meloni-domusnovas": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-21",
+   "scadenza": "",
+   "titolo": "Interpello regionale per il conferimento di una supplenza per la classe di concorso AA22 – Francese A.S. 2026/2027 Sec. I gra-do – ICS “F. MELONI” DOMUSNOVAS",
+   "visto_il": "2026-10-21T09:10:20"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-regionale-per-la-selezione-di-n-1-docente-progetto-progressi-linea-recuperiamo-posto-lingua-inglese-a-s-2026-2027-istituto-comprensivo-stat": {
    "classe": "",
