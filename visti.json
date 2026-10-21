@@ -197,6 +197,24 @@
    "sede": "Spezzone orario",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a051-scienze-tecnologie-e-tecniche-agrarie-iis-einaudi-senorbi-corso-serale-isili-corso-serale-senorbi"
   },
+  "59f24cf288": {
+   "canale": "email",
+   "classe": "BB02",
+   "creato": "2026-10-21T07:44:21",
+   "destinatario": "caic820O0t@istruzione.it",
+   "durata": "fino al 30.06.2027",
+   "ore": "5 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto Globale Carloforte",
+   "sede": "5 ore Fino al 30.06.2027 Istituto Globale Carloforte",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenza-per-l-insegnamento-di-conversazione-in-lingua-straniera-inglese-classe-di-concorso-bb02-a-s-2026"
+  },
   "664cc3ba04": {
    "canale": "email",
    "classe": "A011",
@@ -404,7 +422,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-21T07:39:16",
+  "ultimo_giro": "2026-10-21T07:44:22",
   "ultimo_nuovo": "2026-10-21",
   "update_offset": 406093743
  },
@@ -736,6 +754,14 @@
    "scadenza": "",
    "titolo": "Interpello nazionale per il conferimento di supplenza per l'insegnamento di Conversazione in lingua straniera (Francese) - classe di concorso BA02 - a.s.2026/2027 - Disponibilità di: 5 ore settimanali fino a1 30.06.2027",
    "visto_il": "2026-10-21T07:29:09"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenza-per-l-insegnamento-di-conversazione-in-lingua-straniera-inglese-classe-di-concorso-bb02-a-s-2026": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-21",
+   "scadenza": "",
+   "titolo": "Interpello nazionale per il conferimento di supplenza per l'insegnamento di Conversazione in lingua straniera (Inglese) - classe di concorso BB02 - a. s. 2026/2027 - Disponibilità di: 5 ore settimanali fino a1 30.06.2027",
+   "visto_il": "2026-10-21T07:44:22"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-inglese-classe-di-concorso-bb02-a-s-2026": {
    "classe": "",
