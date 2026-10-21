@@ -365,6 +365,24 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-13-10-2026-al-30-06-2027-n-3-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2"
   },
+  "e5ed4dfbef": {
+   "canale": "email",
+   "classe": "BBA2",
+   "creato": "2026-10-21T07:29:09",
+   "destinatario": "caic82000t@istruzione.it",
+   "durata": "",
+   "ore": "5 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-10-21T08:00:00",
+   "scuola": "Istituto Globale Carloforte",
+   "sede": "Istituto Globale Ca rloforte",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenza-per-l-insegnamento-di-conversazione-in-lingua-straniera-francese-classe-di-concorso-ba02-a-s-202"
+  },
   "f07dfac000": {
    "canale": "email",
    "classe": "A041",
@@ -386,8 +404,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-21T07:24:04",
-  "ultimo_nuovo": "2026-10-20",
+  "ultimo_giro": "2026-10-21T07:29:10",
+  "ultimo_nuovo": "2026-10-21",
   "update_offset": 406093743
  },
  "visti": {
@@ -710,6 +728,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO N°1 SUPPLENZA C. C. A027 – MATEMATICA E FISICA LICEO CLASSICO SCIENTIFICO “EUCLIDE” CAGLIARI",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenza-per-l-insegnamento-di-conversazione-in-lingua-straniera-francese-classe-di-concorso-ba02-a-s-202": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-21",
+   "scadenza": "",
+   "titolo": "Interpello nazionale per il conferimento di supplenza per l'insegnamento di Conversazione in lingua straniera (Francese) - classe di concorso BA02 - a.s.2026/2027 - Disponibilità di: 5 ore settimanali fino a1 30.06.2027",
+   "visto_il": "2026-10-21T07:29:09"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-inglese-classe-di-concorso-bb02-a-s-2026": {
    "classe": "",
