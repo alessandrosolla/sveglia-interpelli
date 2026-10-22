@@ -324,6 +324,21 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/3-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-30-06-2027-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-"
   },
+  "a706799176": {
+   "canale": "email",
+   "classe": "AM2A",
+   "creato": "2026-10-22T11:59:37",
+   "destinatario": "caic88500l@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "",
+   "richiede": [
+    "modulo allegato"
+   ],
+   "scadenza": "2026-10-27T10:00:00",
+   "scuola": "ISTITUTO COMPRENSIVO STATALE SAN NICOLÒ GERREI",
+   "sede": "plesso di Escalaplano dell’I.C. San Nicolò Gerrei",
+   "url": "https://www.mim.gov.it/web/cagliari/-/3-avviso-di-interpello-per-la-copertura-di-n-1-spezzone-di-6-ore-fino-al-termine-delle-attivita-didattiche-30-06-2027-per-la-classe-di-concorso-am2a-l"
+  },
   "d1e9b76ca3": {
    "canale": "portale Argo",
    "classe": "",
@@ -440,8 +455,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-22T11:54:30",
-  "ultimo_nuovo": "2026-10-21",
+  "ultimo_giro": "2026-10-22T11:59:38",
+  "ultimo_nuovo": "2026-10-22",
   "update_offset": 406093743
  },
  "visti": {
@@ -508,6 +523,14 @@
    "scadenza": "",
    "titolo": "2° Interpello per supplenza fino al termine delle attività didattiche n. 6 ore classe di concorso AS2A- lingua francese – presso IIS “BECCARIA – E. LOI” CARBONIA - Corso serale AFM",
    "visto_il": "2026-10-16T07:33:50"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/3-avviso-di-interpello-per-la-copertura-di-n-1-spezzone-di-6-ore-fino-al-termine-delle-attivita-didattiche-30-06-2027-per-la-classe-di-concorso-am2a-l": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-22",
+   "scadenza": "",
+   "titolo": "3° Avviso di INTERPELLO per la copertura di n. 1 spezzone di 6 ore fino al termine delle attività didattiche (30/06/2027) per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE), ai sensi dell’Articolo 14, comma 22, dell’O.M. n. 27/2026. – ICS SAN NICOLO’ GERREI",
+   "visto_il": "2026-10-22T11:59:37"
   },
   "https://www.mim.gov.it/web/cagliari/-/3-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-30-06-2027-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-": {
    "classe": "",
