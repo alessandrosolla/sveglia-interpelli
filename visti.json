@@ -467,12 +467,28 @@
    "scuola": "Istituto",
    "sede": "Spezzone orario 8 ore Fino al 30.06.2027 I.I.S.”Zappa Pitagora“ Isili",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-scienze-e-tecnologie-informatiche-classe-di-concorso-a041-a-s-2026-2027"
+  },
+  "f4ac06ead4": {
+   "canale": "portale Argo",
+   "classe": "A013",
+   "creato": "2026-10-22T12:45:10",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "fino al 28/10/2026",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "modulo allegato"
+   ],
+   "scadenza": "2026-10-23T13:15:00",
+   "scuola": "Liceo Classico Dettori di Cagliari",
+   "sede": "Liceo Classico Dettori di Cagliari",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-g-m-dettori-cagliari"
   }
  },
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-22T12:40:05",
+  "ultimo_giro": "2026-10-22T12:45:11",
   "ultimo_nuovo": "2026-10-22",
   "update_offset": 406093743
  },
@@ -1020,6 +1036,14 @@
    "scadenza": "2026-10-06 08:30:00",
    "titolo": "Interpello per la supplenza classe di concorso – A013 - Discipline Letterarie, Latino e Greco – L.C. “e. Piga” Villacidro",
    "visto_il": "2026-10-16T07:34:56"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-g-m-dettori-cagliari": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-22",
+   "scadenza": "",
+   "titolo": "Interpello per la supplenza classe di concorso – A013 - Discipline Letterarie, Latino e Greco – L.C. “G.M. DETTORI” Cagliari",
+   "visto_il": "2026-10-22T12:45:10"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a051-scienze-tecnologie-e-tecniche-agrarie-iis-beccaria-loi-carbonia-presso-corso-serale-santadi": {
    "classe": "A051",
