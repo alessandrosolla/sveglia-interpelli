@@ -41,6 +41,23 @@
    "sede": "Villaputzu corso serale",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-as2d-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-secondo-grado-tedesco-6-h-sett-li-corso-serale-a-s-202"
   },
+  "07b5b3aef9": {
+   "canale": "email",
+   "classe": "A023",
+   "creato": "2026-10-23T08:38:03",
+   "destinatario": "camm202003@istruzione.it",
+   "durata": "",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato"
+   ],
+   "scadenza": "2026-10-27T08:00:00",
+   "scuola": "",
+   "sede": "DISTRETTO 22 CPIA N. 1 CAGLIARI (CACT70400R)",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-cdc-a023-lin-gua-italiana-per-discenti-di-lingua-straniera-allo-glotti-a-s-2026-27-distretto-22-cpia-n-1-cagliari"
+  },
   "12f9abf7c2": {
    "canale": "email",
    "classe": "BB02",
@@ -488,8 +505,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-23T08:32:59",
-  "ultimo_nuovo": "2026-10-22",
+  "ultimo_giro": "2026-10-23T08:38:04",
+  "ultimo_nuovo": "2026-10-23",
   "update_offset": 406093743
  },
  "visti": {
@@ -1196,6 +1213,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER SUPPLENZA BREVE N.1 CATTEDRA CLASSE DI CONCORSO AS2B – INGLESE – ISTITUTO DI ISTRUZIONE SUPERIORE “BECCARIA – E. LOI” CARBONIA – SEDE DI VIA DALMAZIA",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-cdc-a023-lin-gua-italiana-per-discenti-di-lingua-straniera-allo-glotti-a-s-2026-27-distretto-22-cpia-n-1-cagliari": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-23",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA CDC A023 (Lin-gua italiana per discenti di lingua straniera (allo-glotti). A. S. 2026/27 DISTRETTO 22 CPIA N. 1 CAGLIARI",
+   "visto_il": "2026-10-23T08:38:03"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-13-10-2026-al-29-01-2027-n-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2": {
    "classe": "",
