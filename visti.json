@@ -309,6 +309,19 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-n-6-ore-classe-di-concorso-as2a-lingua-francese-presso-iis-beccaria-e-loi-carboni"
   },
+  "83af188932": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-23T12:15:03",
+   "destinatario": "caic88500l@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "",
+   "richiede": [],
+   "scadenza": "2026-10-26T10:00:00",
+   "scuola": "ISTITUTO COMPRENSIVO STATALE SAN NICOLÒ GERREI",
+   "sede": "plesso di Ballao dell’I.C. San Nicolò Gerrei",
+   "url": "https://www.mim.gov.it/web/cagliari/-/avviso-di-interpello-per-la-selezione-di-n-1-spezzone-di-10-ore-fino-al-termine-delle-attivita-didattiche-per-la-classe-di-concorso-eeil-lingua-ingles"
+  },
   "8d7943d700": {
    "canale": "?",
    "classe": "",
@@ -518,7 +531,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-23T12:09:59",
+  "ultimo_giro": "2026-10-23T12:15:04",
   "ultimo_nuovo": "2026-10-23",
   "update_offset": 406093743
  },
@@ -602,6 +615,14 @@
    "scadenza": "",
    "titolo": "3°Interpello per supplenza fino al termine delle attività didattiche (30/06/2027), 6 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027- LICEO CLASSICO STATALE “E. PIGA” VILLACIDRO",
    "visto_il": "2026-10-19T09:59:51"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/avviso-di-interpello-per-la-selezione-di-n-1-spezzone-di-10-ore-fino-al-termine-delle-attivita-didattiche-per-la-classe-di-concorso-eeil-lingua-ingles": {
+   "classe": "",
+   "esito": "notificato",
+   "pubblicato": "2026-10-23",
+   "scadenza": "2026-10-26 10:00:00",
+   "titolo": "AVVISO di Interpello per la selezione di n. 1 spezzone di 10 ore fino al termine delle attività didattiche per la classe di concorso EEIL- lingua inglese nella scuola primaria- ai sensi dell’art. 14, comma 22, O.M. 27/2026. IC San Nicolò Gerrei",
+   "visto_il": "2026-10-23T12:15:04"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-13-c-23-o-m-88-2024-anno-scolastico-2025-26-c-d-c-a011-discipline-letterarie-e-latino-7-ore-convitto-nazionale-cagliari": {
    "classe": "",
