@@ -267,6 +267,19 @@
    "sede": "5 ore Fino al 30.06.2027 Istituto Globale Carloforte",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenza-per-l-insegnamento-di-conversazione-in-lingua-straniera-inglese-classe-di-concorso-bb02-a-s-2026"
   },
+  "636476ca39": {
+   "canale": "email",
+   "classe": "A044",
+   "creato": "2026-10-23T10:39:12",
+   "destinatario": "carf010003@istruzione.it",
+   "durata": "",
+   "ore": "17 ore settimanali",
+   "richiede": [],
+   "scadenza": "2026-10-29T23:59:00",
+   "scuola": "ISTITUTO PROFESSIONALE DI STATO PER I SERVIZI SOCIALI",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenze-cdc-a044-scienze-e-tecnologie-tessili-dell-abbigliamento-e-della-moda-a-s-2026-2027-istituto-professionale-di-stato-per-i-ser"
+  },
   "664cc3ba04": {
    "canale": "email",
    "classe": "A011",
@@ -505,7 +518,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-23T10:34:08",
+  "ultimo_giro": "2026-10-23T10:39:15",
   "ultimo_nuovo": "2026-10-23",
   "update_offset": 406093743
  },
@@ -1373,6 +1386,14 @@
    "scadenza": "",
    "titolo": "Interpello per supplenza su classe di concorso Educazione Motoria EEEM",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenze-cdc-a044-scienze-e-tecnologie-tessili-dell-abbigliamento-e-della-moda-a-s-2026-2027-istituto-professionale-di-stato-per-i-ser": {
+   "classe": "A044",
+   "esito": "notificato",
+   "pubblicato": "2026-10-23",
+   "scadenza": "2026-10-29 23:59:00",
+   "titolo": "INTERPELLO PER SUPPLENZE – CdC A044 – Scienze e tecnologie tessili, dell’abbigliamento e della moda – A.S. 2026/2027 ISTITUTO PROFESSIONALE DI STATO PER I SERVIZI SOCIALI “S. Pertini” CAGLIARI",
+   "visto_il": "2026-10-23T10:39:15"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-preventivo-n-011-per-selezione-personale-docente-scuola-primaria-e-infanzia-posto-comune-e-di-sostegno-supplenze-pari-o-inferiori-ai-10-gio": {
    "classe": "",
