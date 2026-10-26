@@ -526,6 +526,23 @@
    "sede": "Istituto Globale Ca rloforte",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenza-per-l-insegnamento-di-conversazione-in-lingua-straniera-francese-classe-di-concorso-ba02-a-s-202"
   },
+  "e907424b85": {
+   "canale": "portale Argo",
+   "classe": "",
+   "creato": "2026-10-26T12:56:07",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "dal 28.10.2026 al 30.06.2027",
+   "ore": "7 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-10-27T10:00:00",
+   "scuola": "ISTITUTO DI ISTRUZIONE SUPERIORE",
+   "sede": "SEDE CARCERARIA-CASA CIRCONDARILAE “E.SCALAS” UTA",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-iss-azuni-7-ore-presso-la-sede-carceraria-di-uta"
+  },
   "f07dfac000": {
    "canale": "email",
    "classe": "A041",
@@ -563,7 +580,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-26T12:51:02",
+  "ultimo_giro": "2026-10-26T12:56:08",
   "ultimo_nuovo": "2026-10-26",
   "update_offset": 406093743
  },
@@ -1383,6 +1400,14 @@
    "scadenza": "",
    "titolo": "Interpello per supplenza sino al termine delle attività didattiche su classe di concorso AS2A - 7 ore presso la Sede Carceraria di Uta",
    "visto_il": "2026-10-22T12:35:01"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-iss-azuni-7-ore-presso-la-sede-carceraria-di-uta": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-26",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza sino al termine delle attività didattiche su classe di concorso AS2A – ISS AZUNI - 7 ore presso la Sede Carceraria di Uta",
+   "visto_il": "2026-10-26T12:56:07"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-as2d-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-secondo-grado-tedesco-6-h-sett-li-corso-serale-a-s-202": {
    "classe": "",
