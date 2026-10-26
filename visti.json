@@ -26,6 +26,22 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-f"
   },
+  "0186fb0c88": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-26T10:49:39",
+   "destinatario": "caic87700n@istruzione.it",
+   "durata": "dal 31/10/2026 al 30/06/2027",
+   "ore": "",
+   "richiede": [
+    "codice fiscale",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-10-30T11:00:00",
+   "scuola": "ISTITUTO GLOBALE SANT’ANTIOCO",
+   "sede": "Scuola sec. II grado plessi Via Bolzano e Via Salvo D’Acquisto, Sant’Antioco",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-anno-scolastico-2026-2027-c-d-c-a011-discipline-letterarie-e-latino-n-6-ore-sino-al-30-06-2027-istitut"
+  },
   "03b9ee17bd": {
    "canale": "portale Argo",
    "classe": "",
@@ -547,7 +563,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-26T10:44:34",
+  "ultimo_giro": "2026-10-26T10:49:40",
   "ultimo_nuovo": "2026-10-26",
   "update_offset": 406093743
  },
@@ -679,6 +695,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - a.s. 2026/27 C.D.C AS2A –Lingue e culture straniere francese – 6 ore “Primo Levi” Quartu Sant’Elena",
    "visto_il": "2026-10-16T07:33:55"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-anno-scolastico-2026-2027-c-d-c-a011-discipline-letterarie-e-latino-n-6-ore-sino-al-30-06-2027-istitut": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-26",
+   "scadenza": "",
+   "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - anno scolastico 2026/2027 – C.D.C A011- Discipline letterarie e latino – n. 6 ore sino al 30.06.2027– ISTITUTO GLOBALE SANT’ANTIOCO",
+   "visto_il": "2026-10-26T10:49:40"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-anno-scolastico-2026-2027-c-d-c-am2c-seconda-lingua-comunitaria-spagnolo-n-8-ore-sino-al-30-06-2027-is": {
    "classe": "",
