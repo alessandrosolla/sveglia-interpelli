@@ -152,6 +152,22 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-il-conferimento-di-una-sup-plenza-su-n-1-posto-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-isti-tuti-di-istruzione-di-ii"
   },
+  "2b135bb99c": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-26T09:59:04",
+   "destinatario": "caic87700n@istruzione.it",
+   "durata": "dal 29/10/2026 al 30/06/2027",
+   "ore": "",
+   "richiede": [
+    "codice fiscale",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-10-28T11:00:00",
+   "scuola": "ISTITUTO GLOBALE SANT’ANTIOCO",
+   "sede": "Scuola sec. I grado plesso Via Dante, Calasetta",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-anno-scolastico-2026-2027-c-d-c-am2c-seconda-lingua-comunitaria-spagnolo-n-8-ore-sino-al-30-06-2027-is"
+  },
   "2df4b6bf2e": {
    "canale": "email",
    "classe": "",
@@ -531,8 +547,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-26T09:53:59",
-  "ultimo_nuovo": "2026-10-23",
+  "ultimo_giro": "2026-10-26T09:59:05",
+  "ultimo_nuovo": "2026-10-26",
   "update_offset": 406093743
  },
  "visti": {
@@ -663,6 +679,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - a.s. 2026/27 C.D.C AS2A –Lingue e culture straniere francese – 6 ore “Primo Levi” Quartu Sant’Elena",
    "visto_il": "2026-10-16T07:33:55"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-anno-scolastico-2026-2027-c-d-c-am2c-seconda-lingua-comunitaria-spagnolo-n-8-ore-sino-al-30-06-2027-is": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-26",
+   "scadenza": "",
+   "titolo": "INTERPELLO a norma dell’art. 14, c. 22, O.M. 27/2026 - anno scolastico 2026/2027 – C.D.C AM2C Seconda lingua comunitaria- spagnolo – n. 8 ore sino al 30.06.2027– ISTITUTO GLOBALE SANT’ANTIOCO",
+   "visto_il": "2026-10-26T09:59:04"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-a013-discipline-letterarie-latino-e-greco-i-i-s-gramsci-amaldi-carbonia-ca": {
    "classe": "A013",
