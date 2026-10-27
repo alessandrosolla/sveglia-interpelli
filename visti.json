@@ -325,6 +325,24 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-classe-di-concorso-a011-discipline-letterarie-e-la-tino-presso-l-istituto-d-istruzione-superiore-a-gramsci-e-amaldi-car"
   },
+  "66b7c09e14": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-27T17:01:12",
+   "destinatario": "capm02000c@istruzione.it",
+   "durata": "dal 03/11/2026 al 20/11/2026",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "codice fiscale"
+   ],
+   "scadenza": "2026-10-29T10:00:00",
+   "scuola": "Istituto e degli Istituti viciniori per la classe di",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/avviso-di-interpello-per-il-conferimento-di-una-supplenza-breve-classe-di-concorso-as2a-lingua-e-cultura-francese-eleonora-d-arborea-cagliari"
+  },
   "7e11530727": {
    "canale": "email",
    "classe": "AM2A",
@@ -580,8 +598,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-27T16:56:05",
-  "ultimo_nuovo": "2026-10-26",
+  "ultimo_giro": "2026-10-27T17:01:13",
+  "ultimo_nuovo": "2026-10-27",
   "update_offset": 406093743
  },
  "visti": {
@@ -664,6 +682,14 @@
    "scadenza": "",
    "titolo": "3°Interpello per supplenza fino al termine delle attività didattiche (30/06/2027), 6 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027- LICEO CLASSICO STATALE “E. PIGA” VILLACIDRO",
    "visto_il": "2026-10-19T09:59:51"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/avviso-di-interpello-per-il-conferimento-di-una-supplenza-breve-classe-di-concorso-as2a-lingua-e-cultura-francese-eleonora-d-arborea-cagliari": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-27",
+   "scadenza": "",
+   "titolo": "Avviso di interpello per il conferimento di una supplenza breve - Classe di Concorso AS2A-Lingua e cultura FRANCESE – ELEONORA D’ARBOREA CAGLIARI",
+   "visto_il": "2026-10-27T17:01:12"
   },
   "https://www.mim.gov.it/web/cagliari/-/avviso-di-interpello-per-la-selezione-di-n-1-spezzone-di-10-ore-fino-al-termine-delle-attivita-didattiche-per-la-classe-di-concorso-eeil-lingua-ingles": {
    "classe": "",
