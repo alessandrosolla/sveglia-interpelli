@@ -155,6 +155,21 @@
    "sede": "Spezzone orario 5 ore Fino al 30.06.2027 I.I.S.”Zappa Pitagora“ Isili",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-conversazione-in-lingua-straniera-tedesco-classe-di-concorso-bd02-a-s-2026"
   },
+  "2a9b1dbe52": {
+   "canale": "email",
+   "classe": "A040",
+   "creato": "2026-10-28T08:02:11",
+   "destinatario": "cais01600a@istruzione.it",
+   "durata": "",
+   "ore": "",
+   "richiede": [
+    "curriculum"
+   ],
+   "scadenza": "2026-10-30T10:00:00",
+   "scuola": "ISTITUTO ISTRUZIONE SUPERIORE STATALE",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-l-individuazione-di-un-docente-progetto-progressi-progetti-per-il-recupero-e-il-supporto-agli-studenti-nell-innovazione-anni-scolastici"
+  },
   "2adb474023": {
    "canale": "email",
    "classe": "",
@@ -598,8 +613,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-28T07:57:06",
-  "ultimo_nuovo": "2026-10-27",
+  "ultimo_giro": "2026-10-28T08:02:12",
+  "ultimo_nuovo": "2026-10-28",
   "update_offset": 406093743
  },
  "visti": {
@@ -1074,6 +1089,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER INDIVIDUAZIONE N.2 DOCENTI PRO-GETTO \"PROGRESSI - PROGETTI PER IL RECUPERO E IL SUPPORTO AGLI STUDENTI NELL’INNOVAZIONE ANNI SCOLASTICI 2025-26\"- LINEA RECUPERIAMO III ANNUALITÀ",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-l-individuazione-di-un-docente-progetto-progressi-progetti-per-il-recupero-e-il-supporto-agli-studenti-nell-innovazione-anni-scolastici": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-28",
+   "scadenza": "",
+   "titolo": "INTERPELLO per l’individuazione di un Docente Progetto “PROGRESSI – PROGetti per il Recupero e il Supporto agli Studenti nell’Innovazione Anni Scolastici 2023-24/2024-25/2025-26. Linea RECUPERIAMO III annualità - classe di concorso A040 (Scienze e Tecnologie Elettriche ed Elettroniche). Istituto Istruzione Superiore Statale Tecnico Eco-nomico e Tecnologico “PRIMO LEVI” QUARTU SANT’ELENA (CA)",
+   "visto_il": "2026-10-28T08:02:11"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-l-individuazione-di-un-docente-progetto-progressi-progetti-per-il-recupero-e-il-supporto-agli-studenti-nell-innovazione-anno-scolastico": {
    "classe": "",
