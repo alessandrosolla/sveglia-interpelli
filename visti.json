@@ -267,6 +267,22 @@
    "sede": "CATD016512 corso serale LEVI indirizzo Economico Quartu Sant’Elena",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-14-c-22-o-m-27-2026-a-s-2026-27-c-d-c-as2a-lingue-e-culture-straniere-francese-6-ore-primo-levi-quartu-sant-elena"
   },
+  "47d38d5e7b": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-10-29T14:38:24",
+   "destinatario": "cari02000l@istruzione.it",
+   "durata": "dal 03/11/2026 al 04/12/2026",
+   "ore": "",
+   "richiede": [
+    "modulo allegato",
+    "codice fiscale"
+   ],
+   "scadenza": "2026-10-30T12:00:00",
+   "scuola": "Istituto effettuati ai sensi della normativa non",
+   "sede": "IPIA “G.Ferraris” di Iglesias Via Canepa, snc",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-francese-urgente-i-p-i-a-g-fer"
+  },
   "5219f5717e": {
    "canale": "portale Argo",
    "classe": "",
@@ -613,8 +629,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-10-29T14:33:11",
-  "ultimo_nuovo": "2026-10-28",
+  "ultimo_giro": "2026-10-29T14:38:25",
+  "ultimo_nuovo": "2026-10-29",
   "update_offset": 406093743
  },
  "visti": {
@@ -1489,6 +1505,14 @@
    "scadenza": "",
    "titolo": "Interpello per supplenza su classe di concorso AB56 – Strumento musicale nella Scuola Secondaria di primo grado (Chitarra)",
    "visto_il": "2026-10-16T10:01:52"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-francese-urgente-i-p-i-a-g-fer": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-10-29",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza su classe di concorso AS2A - LINGUE E CULTURE STRANIERE NEGLI ISTITUTI DI ISTRUZIONE DI II GRADO (FRANCESE) - URGENTE - I.P.I.A. “G. FERRARIS” - IGLESIAS",
+   "visto_il": "2026-10-29T14:38:24"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-francese-urgente-ipia-g-ferrar": {
    "classe": "",
