@@ -480,6 +480,21 @@
    "sede": "plesso di Escalaplano dell’I.C. San Nicolò Gerrei",
    "url": "https://www.mim.gov.it/web/cagliari/-/3-avviso-di-interpello-per-la-copertura-di-n-1-spezzone-di-6-ore-fino-al-termine-delle-attivita-didattiche-30-06-2027-per-la-classe-di-concorso-am2a-l"
   },
+  "b38108ea7b": {
+   "canale": "email",
+   "classe": "AS12",
+   "creato": "2026-11-02T09:37:30",
+   "destinatario": "cari02000l@istruzione.it",
+   "durata": "",
+   "ore": "",
+   "richiede": [
+    "documento d'identità"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto effettuati ai sensi della normativa non hanno consentito",
+   "sede": "IPIA Ferraris Via Canepa s.n.c Iglesias;",
+   "url": "https://www.mim.gov.it/web/cagliari/-/1-interpello-per-supplenza-su-classe-di-con-corso-as12-italiano-progetto-progressi-linea-recuperiamo-iii-annualita-a-s-2025-2026-i-p-i-a-g-ferraris-ig"
+  },
   "d1e9b76ca3": {
    "canale": "portale Argo",
    "classe": "",
@@ -629,11 +644,19 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-02T09:32:24",
-  "ultimo_nuovo": "2026-10-29",
+  "ultimo_giro": "2026-11-02T09:37:31",
+  "ultimo_nuovo": "2026-11-02",
   "update_offset": 406093743
  },
  "visti": {
+  "https://www.mim.gov.it/web/cagliari/-/1-interpello-per-supplenza-su-classe-di-con-corso-as12-italiano-progetto-progressi-linea-recuperiamo-iii-annualita-a-s-2025-2026-i-p-i-a-g-ferraris-ig": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-02",
+   "scadenza": "",
+   "titolo": "1 ° Interpello per supplenza su classe di con-corso AS12 – ITALIANO (Progetto Progressi - Linea Recuperiamo III^ annualità) a.s. 2025/2026. I.P.I.A. “G. Ferraris” Iglesias",
+   "visto_il": "2026-11-02T09:37:30"
+  },
   "https://www.mim.gov.it/web/cagliari/-/1-interpello-per-supplenza-su-classe-di-concorso-a042-scienze-e-tecnologie-meccaniche-urgente-i-p-i-a-g-ferraris-iglesias": {
    "classe": "",
    "esito": "preesistente",
