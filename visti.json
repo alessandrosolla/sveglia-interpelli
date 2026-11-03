@@ -330,6 +330,19 @@
    "sede": "5 ore Fino al 30.06.2027 Istituto Globale Carloforte",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenza-per-l-insegnamento-di-conversazione-in-lingua-straniera-inglese-classe-di-concorso-bb02-a-s-2026"
   },
+  "625ccfc112": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-03T12:35:09",
+   "destinatario": "casl01000n@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "18 ore settimanali",
+   "richiede": [],
+   "scadenza": "2026-11-05T13:30:00",
+   "scuola": "Istituto",
+   "sede": "La supplenza oggetto del presente avviso decorre:",
+   "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-la-selezione-personale-docente-scuola-secondaria-di-ii-grado-su-classe-di-concorso-ak55-strumento-musicale-saxofono-ai-sensi-dell-art"
+  },
   "636476ca39": {
    "canale": "email",
    "classe": "A044",
@@ -644,8 +657,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-03T12:30:02",
-  "ultimo_nuovo": "2026-11-02",
+  "ultimo_giro": "2026-11-03T12:35:11",
+  "ultimo_nuovo": "2026-11-03",
   "update_offset": 406093743
  },
  "visti": {
@@ -696,6 +709,14 @@
    "scadenza": "",
    "titolo": "2° Interpello per il conferimento di una sup-plenza su n. 1 posto/classe di concorso AS2A – Lingue e culture straniere negli isti-tuti di istruzione di II grado (Francese), per n. 7 ore settimanali, fino al 08/06/2027 – A.S. 2026/2027 – IIS “Antonio Gramsci – Edoar-do Amaldi\" CARBONIA",
    "visto_il": "2026-10-16T07:34:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-la-selezione-personale-docente-scuola-secondaria-di-ii-grado-su-classe-di-concorso-ak55-strumento-musicale-saxofono-ai-sensi-dell-art": {
+   "classe": "",
+   "esito": "notificato",
+   "pubblicato": "2026-11-03",
+   "scadenza": "2026-11-05 13:30:00",
+   "titolo": "2^INTERPELLO per la selezione personale docente scuola secondaria di II° grado su classe di concorso AK55 strumento musicale saxofono, ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026. Supplenza fino al termine delle attività didattiche ( 30.06.2027)",
+   "visto_il": "2026-11-03T12:35:10"
   },
   "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-breve-fino-al-08-06-2026-classe-di-concorso-a027-matematica-e-fisica-a-s-2025-26-liceo-classico-statale-e-piga-villacidro-s": {
    "classe": "",
