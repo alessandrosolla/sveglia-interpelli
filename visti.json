@@ -525,6 +525,24 @@
    "sede": "SEDE CARCERARIA-CASA CIRCONDARILAE “E.SCALAS” UTA",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta-3"
   },
+  "d308e6d133": {
+   "canale": "email",
+   "classe": "BA02",
+   "creato": "2026-11-03T13:36:04",
+   "destinatario": "cavc010001@istruzione.it",
+   "durata": "dal 06/11/2026 al 30/06/2027",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-11-05T14:00:00",
+   "scuola": "CONVITTO NAZIONALE STATALE “VITTORIO EMANUELE II”",
+   "sede": " N° 7 ore presso CAVC010001 Convitto Nazionale Statale “Vittorio",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-art-14-c-22-o-m-27-2026-c-d-c-ba02-convitto-cagliari"
+  },
   "d33e727ab0": {
    "canale": "portale Argo",
    "classe": "",
@@ -657,7 +675,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-03T13:30:58",
+  "ultimo_giro": "2026-11-03T13:36:05",
   "ultimo_nuovo": "2026-11-03",
   "update_offset": 406093743
  },
@@ -773,6 +791,14 @@
    "scadenza": "2026-10-26 10:00:00",
    "titolo": "AVVISO di Interpello per la selezione di n. 1 spezzone di 10 ore fino al termine delle attività didattiche per la classe di concorso EEIL- lingua inglese nella scuola primaria- ai sensi dell’art. 14, comma 22, O.M. 27/2026. IC San Nicolò Gerrei",
    "visto_il": "2026-10-23T12:15:04"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-art-14-c-22-o-m-27-2026-c-d-c-ba02-convitto-cagliari": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-03",
+   "scadenza": "",
+   "titolo": "Interpello a norma art. 14, c. 22, O.M. 27-2026- C.d.C. BA02 CONVITTO CAGLIARI",
+   "visto_il": "2026-11-03T13:36:05"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-a-norma-dell-art-13-c-23-o-m-88-2024-anno-scolastico-2025-26-c-d-c-a011-discipline-letterarie-e-latino-7-ore-convitto-nazionale-cagliari": {
    "classe": "",
