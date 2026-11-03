@@ -675,7 +675,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-03T13:36:05",
+  "ultimo_giro": "2026-11-03T13:41:10",
   "ultimo_nuovo": "2026-11-03",
   "update_offset": 406093743
  },
@@ -1711,6 +1711,14 @@
    "scadenza": "",
    "titolo": "RETTIFICA IN AUTOTUTELA DELL’AVVISO DI INTERPELLO PROT. N. 10713/01.10.2026 PER LA SELEZIONE DI PERSONALE DOCENTE PER LA COPERTURA DI DUE CATTEDRE A043 – SCIENZE E TECNOLOGIE NAUTICHE – ABBREVIAZIONE DEI TERMINI DI PRESENTAZIONE DELLE CANDIDATURE. ISTITUTO GLOBALE CARLOFORTE.",
    "visto_il": "2026-10-16T07:34:54"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/sigillo_interpello-a041-i-i-s-einaudi-muravera-18-ore-al-30-06-2027-signed": {
+   "classe": "A041",
+   "esito": "scaduto",
+   "pubblicato": "2026-11-03",
+   "scadenza": "2026-11-02 12:00:00",
+   "titolo": "Sigillo_INTERPELLO A041 I.I.S. EINAUDI MURAVERA 18 ore al 30-06.2027-signed",
+   "visto_il": "2026-11-03T13:41:10"
   },
   "https://www.mim.gov.it/web/cagliari/-/urgente-trasmissione-avviso-di-interpello-per-classe-di-concorso-am12-ex-a022-scadenza-supplenza-29-05-2026-oric81400e": {
    "classe": "",
