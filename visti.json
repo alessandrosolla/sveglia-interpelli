@@ -670,12 +670,28 @@
    "scuola": "Liceo Classico Dettori di Cagliari",
    "sede": "Liceo Classico Dettori di Cagliari",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-g-m-dettori-cagliari"
+  },
+  "fed673f86c": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-03T13:46:16",
+   "destinatario": "caic87200e@istruzione.it",
+   "durata": "dal 06/11/2026 al 04/03/2027",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "2026-11-05T09:00:00",
+   "scuola": "Istituto, nonché degli Istituti viciniori, in ottemperanza all’ art 14, comma 22 dell’O.",
+   "sede": "I.C. MONASTIR – Plesso Monastir (Via Deledda e Via Progresso) e Plesso",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-di-personale-per-la-classe-di-concorso-eeil-scuola-primaria-i-c-monastir"
   }
  },
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-03T13:41:10",
+  "ultimo_giro": "2026-11-03T13:46:16",
   "ultimo_nuovo": "2026-11-03",
   "update_offset": 406093743
  },
@@ -1247,6 +1263,14 @@
    "scadenza": "",
    "titolo": "Interpello per la copertura di n.1 supplenza temporanea per posto comune Scuola Primaria EEEE con certificazione linguistica abilitante all’insegnamento della Lingua Inglese",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-di-personale-per-la-classe-di-concorso-eeil-scuola-primaria-i-c-monastir": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-03",
+   "scadenza": "",
+   "titolo": "Interpello per la selezione di personale per la classe di concorso EEIL scuola primaria I.C. Monastir",
+   "visto_il": "2026-11-03T13:46:16"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-personale-docente-scuola-primaria-su-posto-lingua-inglese-eeil-ai-sensi-dell-art-14-comma-22-dell-o-m-n-27-2026-supplenz-1": {
    "classe": "",
