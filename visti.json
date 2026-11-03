@@ -403,6 +403,22 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-n-6-ore-classe-di-concorso-as2a-lingua-francese-presso-iis-beccaria-e-loi-carboni"
   },
+  "8009b4fa48": {
+   "canale": "?",
+   "classe": "",
+   "creato": "2026-11-03T14:01:33",
+   "destinatario": "",
+   "durata": "",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "documento d'identità"
+   ],
+   "scadenza": "",
+   "scuola": "",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-a041-i-i-s-einaudi-muravera-10-ore-al-30-06-2027"
+  },
   "83af188932": {
    "canale": "email",
    "classe": "",
@@ -691,7 +707,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-03T13:56:26",
+  "ultimo_giro": "2026-11-03T14:01:34",
   "ultimo_nuovo": "2026-11-03",
   "update_offset": 406093743
  },
@@ -887,6 +903,14 @@
    "scadenza": "",
    "titolo": "Interpello A013 Discipline letterarie, latino e greco. Liceo classico linguistico e scienze umane Quartu Sant’Elena",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-a041-i-i-s-einaudi-muravera-10-ore-al-30-06-2027": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-03",
+   "scadenza": "",
+   "titolo": "INTERPELLO A041 I.I.S. EINAUDI MURAVERA 10 ore al 30-06.2027",
+   "visto_il": "2026-11-03T14:01:33"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-a051-scienze-tecnologie-e-tecniche-agrarie-i-i-s-beccaria-loi-carbonia-ca-corso-serale": {
    "classe": "",
