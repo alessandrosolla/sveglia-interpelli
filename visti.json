@@ -235,6 +235,23 @@
    "sede": "Cattedra intera 19 ore Fino al 03.12.2026 I.I.S.”Zappa Pitagora“ Isili",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-france"
   },
+  "3655da55f2": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-04T08:33:28",
+   "destinatario": "cais009007@istruzione.it",
+   "durata": "dal 06/11/2026 al 30/06/2027",
+   "ore": "2 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "ISTITUTO DI ISTRUZIONE SUPERIORE",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-classe-di-concorso-as2b-lingua-e-cultura-straniera-inglese-a-s-2026-2027-istituto-di-istruzione-superiore-buonarroti-volta-gu"
+  },
   "3aafffb469": {
    "canale": "email",
    "classe": "",
@@ -707,8 +724,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-04T08:28:22",
-  "ultimo_nuovo": "2026-11-03",
+  "ultimo_giro": "2026-11-04T08:33:29",
+  "ultimo_nuovo": "2026-11-04",
   "update_offset": 406093743
  },
  "visti": {
@@ -1503,6 +1520,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER SUPPLENZA CDC A023 (Lin-gua italiana per discenti di lingua straniera (allo-glotti). A. S. 2026/27 DISTRETTO 22 CPIA N. 1 CAGLIARI",
    "visto_il": "2026-10-23T08:38:03"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-classe-di-concorso-as2b-lingua-e-cultura-straniera-inglese-a-s-2026-2027-istituto-di-istruzione-superiore-buonarroti-volta-gu": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-04",
+   "scadenza": "",
+   "titolo": "INTERPELLO per supplenza classe di concorso AS2B – LINGUA E CULTURA STRANIERA (INGLESE) A.S. 2026/2027 - ISTITUTO DI ISTRUZIONE SUPERIORE “Buonarroti – Volta” GUSPINI",
+   "visto_il": "2026-11-04T08:33:29"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-13-10-2026-al-29-01-2027-n-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2": {
    "classe": "",
