@@ -57,6 +57,21 @@
    "sede": "Villaputzu corso serale",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-as2d-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-secondo-grado-tedesco-6-h-sett-li-corso-serale-a-s-202"
   },
+  "069e9152d6": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-04T09:19:06",
+   "destinatario": "cais009007@istruzione.it",
+   "durata": "dal 05/11/2026 al 30/06/2027",
+   "ore": "2 ore settimanali",
+   "richiede": [
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "ISTITUTO DI ISTRUZIONE SUPERIORE",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2026-2027-buonarroti-volta-guspini"
+  },
   "07b5b3aef9": {
    "canale": "email",
    "classe": "A023",
@@ -724,7 +739,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-04T09:14:00",
+  "ultimo_giro": "2026-11-04T09:19:07",
   "ultimo_nuovo": "2026-11-04",
   "update_offset": 406093743
  },
@@ -1520,6 +1535,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER SUPPLENZA CDC A023 (Lin-gua italiana per discenti di lingua straniera (allo-glotti). A. S. 2026/27 DISTRETTO 22 CPIA N. 1 CAGLIARI",
    "visto_il": "2026-10-23T08:38:03"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-2026-2027-buonarroti-volta-guspini": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-04",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027 – BUONARROTI-VOLTA GUSPINI",
+   "visto_il": "2026-11-04T09:19:06"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-classe-di-concorso-as2b-lingua-e-cultura-straniera-inglese-a-s-2026-2027-istituto-di-istruzione-superiore-buonarroti-volta-gu": {
    "classe": "",
