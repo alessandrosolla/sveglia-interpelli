@@ -122,6 +122,19 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/manifestazione-di-disponibilita-per-l-interpello-relativo-alla-copertura-di-un-posto-vacante-e-disponibile-per-il-profilo-di-docente-di-classe-di-conc"
   },
+  "17ed92f35b": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-05T09:33:07",
+   "destinatario": "CAIC8AM00E@istruzione.it",
+   "durata": "dal 09/11/2026 al 08/06/2027",
+   "ore": "",
+   "richiede": [],
+   "scadenza": "2026-11-06T08:00:00",
+   "scuola": "ISTITUTO COMPRENSIVO “U. FOSCOLO – VIA STOCCOLMA”",
+   "sede": "Via Stoccolma, 1",
+   "url": "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primaria"
+  },
   "20d9ca18db": {
    "canale": "email",
    "classe": "AM2A",
@@ -756,8 +769,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-05T09:28:01",
-  "ultimo_nuovo": "2026-11-04",
+  "ultimo_giro": "2026-11-05T09:33:09",
+  "ultimo_nuovo": "2026-11-05",
   "update_offset": 406093743
  },
  "visti": {
@@ -1824,6 +1837,14 @@
    "scadenza": "",
    "titolo": "PROROGA INTERPELLO per la copertura di n. 1 supplenza temporanea per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE)_I.C. Selargius 1",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primaria": {
+   "classe": "",
+   "esito": "notificato",
+   "pubblicato": "2026-11-05",
+   "scadenza": "2026-11-06 08:00:00",
+   "titolo": "PUBBLICAZIONE PROCEDURA DI INTERPELLO per l'individuazione e il reclutamento di personale docente per il conferimento di una supplenza scuola primaria EEIL (posto lingua inglese)",
+   "visto_il": "2026-11-05T09:33:08"
   },
   "https://www.mim.gov.it/web/cagliari/-/rettifica-in-autotutela-dell-avviso-di-interpello-prot-n-10713-01-10-2026-per-la-selezione-di-personale-docente-per-la-copertura-di-due-cattedre-a043-": {
    "classe": "",
