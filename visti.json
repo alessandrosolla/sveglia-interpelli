@@ -667,6 +667,25 @@
    "sede": "Spezzone orario",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-procedura-gestione-supplenze-per-le-graduatorie-di-istituto-esaurite-a-norma-dell-art-14-c-22-o-m-27-2026-classe-di-concorso-a041"
   },
+  "de52397ccb": {
+   "canale": "?",
+   "classe": "",
+   "creato": "2026-11-06T12:42:00",
+   "destinatario": "",
+   "durata": "",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato",
+    "codice fiscale",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primar-1"
+  },
   "e09adf1b21": {
    "canale": "portale Argo",
    "classe": "",
@@ -785,8 +804,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-06T12:36:56",
-  "ultimo_nuovo": "2026-11-05",
+  "ultimo_giro": "2026-11-06T12:42:01",
+  "ultimo_nuovo": "2026-11-06",
   "update_offset": 406093743
  },
  "visti": {
@@ -1861,6 +1880,14 @@
    "scadenza": "",
    "titolo": "PROROGA INTERPELLO per la copertura di n. 1 supplenza temporanea per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE)_I.C. Selargius 1",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primar-1": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-06",
+   "scadenza": "",
+   "titolo": "PUBBLICAZIONE PROCEDURA DI INTERPELLO per l'individuazione e il reclutamento di personale docente per il conferimento di una supplenza scuola primaria EEIL (posto lingua inglese)",
+   "visto_il": "2026-11-06T12:42:01"
   },
   "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primaria": {
    "classe": "",
