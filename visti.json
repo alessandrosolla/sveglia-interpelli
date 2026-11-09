@@ -345,6 +345,21 @@
    "sede": "IPIA “G.Ferraris” di Iglesias Via Canepa, snc",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-classe-di-concorso-as2a-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-francese-urgente-i-p-i-a-g-fer"
   },
+  "4c94a92bb7": {
+   "canale": "email",
+   "classe": "ADSS",
+   "creato": "2026-11-09T13:23:52",
+   "destinatario": "cais02700r@istruzione.it",
+   "durata": "fino al 15/11/2026",
+   "ore": "",
+   "richiede": [
+    "codice fiscale"
+   ],
+   "scadenza": "2026-11-10T11:00:00",
+   "scuola": "Istituto di Istruzione Superiore “Giorgio Asproni” - “Enrico Fermi”",
+   "sede": "Iglesias Via Falcone I.I.S",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-adss-sostegno-psicofisico-scuole-se-condarie-ii-grado-i-i-s-giorgio-asproni-enrico-fermi-iglesias"
+  },
   "5219f5717e": {
    "canale": "portale Argo",
    "classe": "",
@@ -804,7 +819,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-09T13:18:46",
+  "ultimo_giro": "2026-11-09T13:23:53",
   "ultimo_nuovo": "2026-11-09",
   "update_offset": 406093743
  },
@@ -1480,6 +1495,14 @@
    "scadenza": "",
    "titolo": "Interpello per la supplenza classe di concorso – A051 - Scienze, tecnologie e tecniche agrarie – IIS EINAUDI SENORBI’ corso serale Isili – corso serale Senorbì",
    "visto_il": "2026-10-16T07:34:34"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-adss-sostegno-psicofisico-scuole-se-condarie-ii-grado-i-i-s-giorgio-asproni-enrico-fermi-iglesias": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-09",
+   "scadenza": "",
+   "titolo": "Interpello per la supplenza classe di concorso – ADSS SOSTEGNO PSICOFISICO SCUOLE SE-CONDARIE II GRADO – I.I.S. Giorgio Asproni – Enrico Fermi Iglesias",
+   "visto_il": "2026-11-09T13:23:52"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-n-1-posto-classe-di-concorso-adee-posto-sostegno-scuola-primaria-ic-villasor": {
    "classe": "",
