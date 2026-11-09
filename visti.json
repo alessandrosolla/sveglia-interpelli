@@ -804,8 +804,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-09T07:54:26",
-  "ultimo_nuovo": "2026-11-06",
+  "ultimo_giro": "2026-11-09T07:59:31",
+  "ultimo_nuovo": "2026-11-09",
   "update_offset": 406093743
  },
  "visti": {
@@ -904,6 +904,14 @@
    "scadenza": "",
    "titolo": "3°Interpello per supplenza fino al termine delle attività didattiche (30/06/2027), 6 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027- LICEO CLASSICO STATALE “E. PIGA” VILLACIDRO",
    "visto_il": "2026-10-19T09:59:51"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/4-avviso-di-interpello-per-la-copertura-di-n-1-spezzone-di-6-ore-fino-al-termine-delle-attivita-didattiche-30-06-2027-per-la-classe-di-concorso-am2a-l": {
+   "classe": "AM2A",
+   "esito": "scaduto",
+   "pubblicato": "2026-11-09",
+   "scadenza": "2026-10-09 10:00:00",
+   "titolo": "4° Avviso di INTERPELLO per la copertura di n. 1 spezzone di 6 ore fino al termine delle attività didattiche (30/06/2027) per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE), ai sensi dell’Articolo 14, comma 22, dell’O.M. n. 27/2026. – ICS SAN NICOLO’ GERREI",
+   "visto_il": "2026-11-09T07:59:30"
   },
   "https://www.mim.gov.it/web/cagliari/-/avviso-di-interpello-per-il-conferimento-di-una-supplenza-breve-classe-di-concorso-as2a-lingua-e-cultura-francese-eleonora-d-arborea-cagliari": {
    "classe": "",
