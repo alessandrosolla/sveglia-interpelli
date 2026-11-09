@@ -804,7 +804,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-09T11:36:47",
+  "ultimo_giro": "2026-11-09T11:42:04",
   "ultimo_nuovo": "2026-11-09",
   "update_offset": 406093743
  },
@@ -1432,6 +1432,14 @@
    "scadenza": "2026-10-08 14:00:00",
    "titolo": "INTERPELLO per la selezione personale docente scuola secondaria di II° grado su classe di concorso AK55 strumento musicale saxofono, ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026. Supplenza fino al termine delle attività didattiche ( 30.06.2026)",
    "visto_il": "2026-10-16T07:34:24"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a011-discipline-letterarie-e-latino-nelle-scuole-secondari-di-ii-grado-a013-discipline-letterarie-latin": {
+   "classe": "A011",
+   "esito": "scaduto",
+   "pubblicato": "2026-11-09",
+   "scadenza": "2026-11-09 10:00:00",
+   "titolo": "Interpello per la supplenza classe di concorso – A011 – Discipline letterarie e latino nelle scuole secondari di II grado, A013 - Discipline Letterarie, Latino e Greco nelle scuole secondari di II grado – I.I.S. G. Asproni – Baudi Di Vesme",
+   "visto_il": "2026-11-09T11:42:03"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-e-piga-villacidro": {
    "classe": "A013",
