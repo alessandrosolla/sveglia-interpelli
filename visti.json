@@ -314,6 +314,19 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-fra"
   },
+  "4011f3dcbd": {
+   "canale": "email",
+   "classe": "AM2A",
+   "creato": "2026-11-10T09:11:41",
+   "destinatario": "caic87600t@istruzione.it",
+   "durata": "dal 16/11/2026 al 22/12/2026",
+   "ore": "18 ore settimanali",
+   "richiede": [],
+   "scadenza": "2026-11-13T10:00:00",
+   "scuola": "ISTITUTO COMPRENSIVO “DELEDDA – PASCOLI – DON MILANI” CARBONIA",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-personale-docente-su-classe-di-concorso-am2a-lingue-e-culture-straniere-nell-istruzione-secondaria-di-i-grado-francese-sup"
+  },
   "41338f5dd7": {
    "canale": "email",
    "classe": "",
@@ -819,8 +832,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-10T09:06:35",
-  "ultimo_nuovo": "2026-11-09",
+  "ultimo_giro": "2026-11-10T09:11:45",
+  "ultimo_nuovo": "2026-11-10",
   "update_offset": 406093743
  },
  "visti": {
@@ -1447,6 +1460,14 @@
    "scadenza": "2026-10-08 14:00:00",
    "titolo": "INTERPELLO per la selezione personale docente scuola secondaria di II° grado su classe di concorso AK55 strumento musicale saxofono, ai sensi dell’art. 14, comma 22, dell’O.M. n. 27/2026. Supplenza fino al termine delle attività didattiche ( 30.06.2026)",
    "visto_il": "2026-10-16T07:34:24"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-selezione-personale-docente-su-classe-di-concorso-am2a-lingue-e-culture-straniere-nell-istruzione-secondaria-di-i-grado-francese-sup": {
+   "classe": "AM2A",
+   "esito": "notificato",
+   "pubblicato": "2026-11-10",
+   "scadenza": "2026-11-13 10:00:00",
+   "titolo": "INTERPELLO per la selezione personale docente su Classe di Concorso AM2A Lingue e culture straniere nell’ istruzione secondaria di I grado (FRANCESE). Supplenza breve dal 16 /11/2026 fino al 22 /12/2026, presso Istituto Comprensivo Deledda Pascoli Don Milani Carbonia.",
+   "visto_il": "2026-11-10T09:11:44"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a011-discipline-letterarie-e-latino-nelle-scuole-secondari-di-ii-grado-a013-discipline-letterarie-latin": {
    "classe": "A011",
