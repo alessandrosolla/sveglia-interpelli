@@ -832,7 +832,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-10T13:00:12",
+  "ultimo_giro": "2026-11-10T13:05:17",
   "ultimo_nuovo": "2026-11-10",
   "update_offset": 406093743
  },
@@ -1980,6 +1980,14 @@
    "scadenza": "2026-11-02 12:00:00",
    "titolo": "Sigillo_INTERPELLO A041 I.I.S. EINAUDI MURAVERA 18 ore al 30-06.2027-signed",
    "visto_il": "2026-11-03T13:41:10"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/termini-e-modalita-di-presentazione-delle-domande-di-partecipazione-agli-esami-di-maturita-per-l-a-s-2026-27-da-parte-di-candidati-interni-ed-esterni": {
+   "classe": "",
+   "esito": "senza_pdf",
+   "pubblicato": "2026-11-10",
+   "scadenza": "",
+   "titolo": "Termini e modalità di presentazione delle domande di partecipazione agli esami di maturità per l’a. s. 2026/27 da parte di candidati interni ed esterni",
+   "visto_il": "2026-11-10T13:05:17"
   },
   "https://www.mim.gov.it/web/cagliari/-/urgente-trasmissione-avviso-di-interpello-per-classe-di-concorso-am12-ex-a022-scadenza-supplenza-29-05-2026-oric81400e": {
    "classe": "",
