@@ -832,7 +832,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-10T15:12:06",
+  "ultimo_giro": "2026-11-10T15:17:11",
   "ultimo_nuovo": "2026-11-10",
   "update_offset": 406093743
  },
@@ -1972,6 +1972,14 @@
    "scadenza": "",
    "titolo": "Secondo interpello per la supplenza classe di concorso – A042 - Scienze e tecnologie meccaniche - IIS BUONARROTI VOLTA GUSPINI",
    "visto_il": "2026-11-10T13:00:11"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/secondo-interpello-per-la-supplenza-classe-di-con-corso-a042-scienze-e-tecnologie-meccaniche-iis-d-scano-o-bacaredda-cagliari": {
+   "classe": "",
+   "esito": "senza_pdf",
+   "pubblicato": "2026-11-10",
+   "scadenza": "",
+   "titolo": "Secondo interpello per la supplenza classe di con-corso – A042 - Scienze e tecnologie meccaniche -IIS D. Scano O. Bacaredda Cagliari",
+   "visto_il": "2026-11-10T15:17:11"
   },
   "https://www.mim.gov.it/web/cagliari/-/sigillo_interpello-a041-i-i-s-einaudi-muravera-18-ore-al-30-06-2027-signed": {
    "classe": "A041",
