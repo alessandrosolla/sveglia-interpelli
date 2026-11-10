@@ -832,7 +832,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-10T12:55:06",
+  "ultimo_giro": "2026-11-10T13:00:12",
   "ultimo_nuovo": "2026-11-10",
   "update_offset": 406093743
  },
@@ -1964,6 +1964,14 @@
    "scadenza": "",
    "titolo": "RETTIFICA IN AUTOTUTELA DELL’AVVISO DI INTERPELLO PROT. N. 10713/01.10.2026 PER LA SELEZIONE DI PERSONALE DOCENTE PER LA COPERTURA DI DUE CATTEDRE A043 – SCIENZE E TECNOLOGIE NAUTICHE – ABBREVIAZIONE DEI TERMINI DI PRESENTAZIONE DELLE CANDIDATURE. ISTITUTO GLOBALE CARLOFORTE.",
    "visto_il": "2026-10-16T07:34:54"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/secondo-interpello-per-la-supplenza-classe-di-con-corso-a042-scienze-e-tecnologie-meccaniche-iis-buonarroti-volta-guspini": {
+   "classe": "",
+   "esito": "senza_pdf",
+   "pubblicato": "2026-11-10",
+   "scadenza": "",
+   "titolo": "Secondo interpello per la supplenza classe di concorso – A042 - Scienze e tecnologie meccaniche - IIS BUONARROTI VOLTA GUSPINI",
+   "visto_il": "2026-11-10T13:00:11"
   },
   "https://www.mim.gov.it/web/cagliari/-/sigillo_interpello-a041-i-i-s-einaudi-muravera-18-ore-al-30-06-2027-signed": {
    "classe": "A041",
