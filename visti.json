@@ -122,6 +122,21 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/manifestazione-di-disponibilita-per-l-interpello-relativo-alla-copertura-di-un-posto-vacante-e-disponibile-per-il-profilo-di-docente-di-classe-di-conc"
   },
+  "17bf92cff4": {
+   "canale": "email",
+   "classe": "AM2A",
+   "creato": "2026-11-11T09:49:22",
+   "destinatario": "caic88500l@istruzione.it",
+   "durata": "fino al termine delle attività didattiche",
+   "ore": "",
+   "richiede": [
+    "modulo allegato"
+   ],
+   "scadenza": "2026-11-16T10:00:00",
+   "scuola": "ISTITUTO COMPRENSIVO STATALE SAN NICOLÒ GERREI",
+   "sede": "plesso di Escalaplano dell’I.C. San Nicolò Gerrei",
+   "url": "https://www.mim.gov.it/web/cagliari/-/5-avviso-di-interpello-per-la-copertura-di-n-1-spezzone-di-6-ore-fino-al-termine-delle-attivita-didattiche-30-06-2027-per-la-classe-di-concorso-am2a-l"
+  },
   "17ed92f35b": {
    "canale": "email",
    "classe": "",
@@ -832,8 +847,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-11T09:44:17",
-  "ultimo_nuovo": "2026-11-10",
+  "ultimo_giro": "2026-11-11T09:49:23",
+  "ultimo_nuovo": "2026-11-11",
   "update_offset": 406093743
  },
  "visti": {
@@ -940,6 +955,14 @@
    "scadenza": "2026-10-09 10:00:00",
    "titolo": "4° Avviso di INTERPELLO per la copertura di n. 1 spezzone di 6 ore fino al termine delle attività didattiche (30/06/2027) per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE), ai sensi dell’Articolo 14, comma 22, dell’O.M. n. 27/2026. – ICS SAN NICOLO’ GERREI",
    "visto_il": "2026-11-09T07:59:30"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/5-avviso-di-interpello-per-la-copertura-di-n-1-spezzone-di-6-ore-fino-al-termine-delle-attivita-didattiche-30-06-2027-per-la-classe-di-concorso-am2a-l": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-11",
+   "scadenza": "",
+   "titolo": "5° Avviso di INTERPELLO per la copertura di n. 1 spezzone di 6 ore fino al termine delle attività didattiche (30/06/2027) per la classe di concorso AM2A - Lingue e culture straniere nell’istruzione secondaria di I grado (FRANCESE), ai sensi dell’Articolo 14, comma 22, dell’O.M. n. 27/2026. – ICS SAN NICOLO’ GERREI",
+   "visto_il": "2026-11-11T09:49:23"
   },
   "https://www.mim.gov.it/web/cagliari/-/avviso-di-interpello-per-il-conferimento-di-una-supplenza-breve-classe-di-concorso-as2a-lingua-e-cultura-francese-eleonora-d-arborea-cagliari": {
    "classe": "",
