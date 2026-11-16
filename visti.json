@@ -710,6 +710,19 @@
    "sede": "Spezzone orario",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-procedura-gestione-supplenze-per-le-graduatorie-di-istituto-esaurite-a-norma-dell-art-14-c-22-o-m-27-2026-classe-di-concorso-a041"
   },
+  "ddc688a3ac": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-16T08:58:19",
+   "destinatario": "caic87200e@istruzione.it",
+   "durata": "dal 18/11/2026 al 04/03/2027",
+   "ore": "",
+   "richiede": [],
+   "scadenza": "2026-11-17T08:00:00",
+   "scuola": "Istituto, nonché degli Istituti viciniori, in ottemperanza all’ art 14, comma 22 dell’O.",
+   "sede": "I.C. MONASTIR – Plesso Monastir (Via Deledda e Via Progresso) e Plesso",
+   "url": "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primar-3"
+  },
   "de52397ccb": {
    "canale": "?",
    "classe": "",
@@ -847,8 +860,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-16T08:53:14",
-  "ultimo_nuovo": "2026-11-11",
+  "ultimo_giro": "2026-11-16T08:58:23",
+  "ultimo_nuovo": "2026-11-16",
   "update_offset": 406093743
  },
  "visti": {
@@ -1971,6 +1984,14 @@
    "scadenza": "",
    "titolo": "PUBBLICAZIONE PROCEDURA DI INTERPELLO per l'individuazione e il reclutamento di personale docente per il conferimento di una supplenza scuola primaria EEIL (posto lingua inglese)",
    "visto_il": "2026-11-06T12:42:01"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primar-3": {
+   "classe": "",
+   "esito": "notificato",
+   "pubblicato": "2026-11-16",
+   "scadenza": "2026-11-17 08:00:00",
+   "titolo": "PUBBLICAZIONE PROCEDURA DI INTERPELLO per l'individuazione e il reclutamento di personale docente per il conferimento di una supplenza scuola primaria EEIL (posto lingua inglese)",
+   "visto_il": "2026-11-16T08:58:23"
   },
   "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primaria": {
    "classe": "",
