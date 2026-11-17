@@ -840,6 +840,23 @@
    "sede": "Liceo Classico Dettori di Cagliari",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-g-m-dettori-cagliari"
   },
+  "f56a765758": {
+   "canale": "email",
+   "classe": "A041",
+   "creato": "2026-11-17T10:54:44",
+   "destinatario": "cais011007@istruzione.it",
+   "durata": "fino al 22.12.2026",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "ISTITUTO D’ISTRUZIONE SUPERIORE “BECCARIA – E. LOI”",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-classe-di-concorso-a041-scienze-e-tecnologie-informatiche-per-n-15-ore-settimanali-fino-al-22-12-2026"
+  },
   "fed673f86c": {
    "canale": "email",
    "classe": "",
@@ -860,8 +877,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-17T10:49:40",
-  "ultimo_nuovo": "2026-11-16",
+  "ultimo_giro": "2026-11-17T10:54:45",
+  "ultimo_nuovo": "2026-11-17",
   "update_offset": 406093743
  },
  "visti": {
@@ -1272,6 +1289,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO N°1 SUPPLENZA C. C. A027 – MATEMATICA E FISICA LICEO CLASSICO SCIENTIFICO “EUCLIDE” CAGLIARI",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-classe-di-concorso-a041-scienze-e-tecnologie-informatiche-per-n-15-ore-settimanali-fino-al-22-12-2026": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-17",
+   "scadenza": "",
+   "titolo": "INTERPELLO NAZIONALE - Classe di concorso A041 - Scienze e tecnologie informatiche per n. 15 ore settimanali fino al 22.12.2026",
+   "visto_il": "2026-11-17T10:54:44"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenza-per-l-insegnamento-di-conversazione-in-lingua-straniera-francese-classe-di-concorso-ba02-a-s-202": {
    "classe": "",
