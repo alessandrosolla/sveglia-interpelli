@@ -840,6 +840,23 @@
    "sede": "Liceo Classico Dettori di Cagliari",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-g-m-dettori-cagliari"
   },
+  "f4ee60e01a": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-17T14:47:35",
+   "destinatario": "cais02100t@istruzione.it",
+   "durata": "dal 23/11/2026 al 12/02/2027",
+   "ore": "18 ore settimanali",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato"
+   ],
+   "scadenza": "",
+   "scuola": "Istituto di Istruzione Superiore Statale “VIGNARELLI” SANLURI",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-23-11-2026-al-12-02-2027-n-18-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-"
+  },
   "f56a765758": {
    "canale": "email",
    "classe": "A041",
@@ -877,7 +894,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-17T14:42:29",
+  "ultimo_giro": "2026-11-17T14:47:36",
   "ultimo_nuovo": "2026-11-17",
   "update_offset": 406093743
  },
@@ -1761,6 +1778,14 @@
    "scadenza": "",
    "titolo": "Interpello per supplenza dal 13/10/2026 al 30/06/2027, n. 3 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027 – “VIGNARELLI” SANLURI",
    "visto_il": "2026-10-16T07:34:18"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-dal-23-11-2026-al-12-02-2027-n-18-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-francese-a-s-": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-17",
+   "scadenza": "",
+   "titolo": "Interpello per supplenza dal 23/11/2026 al 12/02/2027, n. 18 ore settimanali di lezione classe di concorso AS2A – LINGUA E CULTURA STRANIERA (FRANCESE) A.S. 2026/2027– “VIGNARELLI” SANLURI",
+   "visto_il": "2026-11-17T14:47:36"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-fino-al-termine-delle-attivita-didattiche-6-ore-settimanali-di-lezione-classe-di-concorso-as2a-lingua-e-cultura-straniera-fra": {
    "classe": "",
