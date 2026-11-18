@@ -461,6 +461,19 @@
    "sede": "",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenze-cdc-a044-scienze-e-tecnologie-tessili-dell-abbigliamento-e-della-moda-a-s-2026-2027-istituto-professionale-di-stato-per-i-ser"
   },
+  "63a48b4201": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-18T14:59:54",
+   "destinatario": "caic87600t@istruzione.it",
+   "durata": "dal 23/11/2026 al 04/12/2026",
+   "ore": "24 ore settimanali",
+   "richiede": [],
+   "scadenza": "2026-11-20T12:30:00",
+   "scuola": "ISTITUTO COMPRENSIVO “DELEDDA – PASCOLI – DON MILANI” CARBONIA",
+   "sede": "La supplenza oggetto del presente avviso decorre:",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-selezione-docente-scuola-primaria-su-posto-lingua-inglese-eeil-art-14-comma-22-o-m-n-27-2026-i-c-deledda-pascoli-don-milani-carbonia"
+  },
   "664cc3ba04": {
    "canale": "email",
    "classe": "A011",
@@ -907,7 +920,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-18T14:54:49",
+  "ultimo_giro": "2026-11-18T14:59:58",
   "ultimo_nuovo": "2026-11-18",
   "update_offset": 406093743
  },
@@ -2015,6 +2028,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO REGIONALE PER LA SELEZIONE DI N° 2 DO-CENTE SCUOLA PRIMARIA POSTO SOSTEGNO A.S. 2024/25",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-selezione-docente-scuola-primaria-su-posto-lingua-inglese-eeil-art-14-comma-22-o-m-n-27-2026-i-c-deledda-pascoli-don-milani-carbonia": {
+   "classe": "",
+   "esito": "notificato",
+   "pubblicato": "2026-11-18",
+   "scadenza": "2026-11-20 12:30:00",
+   "titolo": "INTERPELLO SELEZIONE docente scuola PRIMARIA su posto LINGUA INGLESE (EEIL) art. 14, comma 22 - O.M. n. 27/2026- I.C.Deledda Pascoli Don Milani - CARBONIA",
+   "visto_il": "2026-11-18T14:59:57"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-supplenza-breve-fino-al-30-01-2026-h-18-admm-scuola-secondaria-di-i-grado-i-c-gramsci-rodari-di-sestu": {
    "classe": "",
