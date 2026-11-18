@@ -537,6 +537,19 @@
    "sede": "plesso di Ballao dell’I.C. San Nicolò Gerrei",
    "url": "https://www.mim.gov.it/web/cagliari/-/avviso-di-interpello-per-la-selezione-di-n-1-spezzone-di-10-ore-fino-al-termine-delle-attivita-didattiche-per-la-classe-di-concorso-eeil-lingua-ingles"
   },
+  "86aa4292fb": {
+   "canale": "email",
+   "classe": "",
+   "creato": "2026-11-18T09:14:15",
+   "destinatario": "caic87200e@istruzione.it",
+   "durata": "dal 20/11/2026 al 04/03/2027",
+   "ore": "",
+   "richiede": [],
+   "scadenza": "2026-11-19T08:00:00",
+   "scuola": "Istituto, nonché degli Istituti viciniori, in ottemperanza all’ art 14, comma 22 dell’O.",
+   "sede": "I.C. MONASTIR – Plesso Monastir (Via Deledda e Via Progresso) e Plesso",
+   "url": "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primar-4"
+  },
   "8d7943d700": {
    "canale": "?",
    "classe": "",
@@ -894,8 +907,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-18T09:09:11",
-  "ultimo_nuovo": "2026-11-17",
+  "ultimo_giro": "2026-11-18T09:14:18",
+  "ultimo_nuovo": "2026-11-18",
   "update_offset": 406093743
  },
  "visti": {
@@ -2042,6 +2055,14 @@
    "scadenza": "2026-11-17 08:00:00",
    "titolo": "PUBBLICAZIONE PROCEDURA DI INTERPELLO per l'individuazione e il reclutamento di personale docente per il conferimento di una supplenza scuola primaria EEIL (posto lingua inglese)",
    "visto_il": "2026-11-16T08:58:23"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primar-4": {
+   "classe": "",
+   "esito": "notificato",
+   "pubblicato": "2026-11-18",
+   "scadenza": "2026-11-19 08:00:00",
+   "titolo": "PUBBLICAZIONE PROCEDURA DI INTERPELLO per l'individuazione e il reclutamento di personale docente per il conferimento di una supplenza scuola primaria EEIL (posto lingua inglese)",
+   "visto_il": "2026-11-18T09:14:18"
   },
   "https://www.mim.gov.it/web/cagliari/-/pubblicazione-procedura-di-interpello-per-l-individuazione-e-il-reclutamento-di-personale-docente-per-il-conferimento-di-una-supplenza-scuola-primaria": {
    "classe": "",
