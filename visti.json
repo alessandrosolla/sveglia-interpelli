@@ -295,6 +295,23 @@
    "sede": "Cattedra intera 19 ore Fino al 03.12.2026 I.I.S.”Zappa Pitagora“ Isili",
    "url": "https://www.mim.gov.it/web/cagliari/-/interpello-nazionale-per-il-conferimento-di-supplenze-per-l-insegnamento-di-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-ii-grado-france"
   },
+  "2f6592decf": {
+   "canale": "portale Argo",
+   "classe": "A013",
+   "creato": "2026-11-20T14:35:32",
+   "destinatario": "https://madinterpello.portaleargo.it/",
+   "durata": "fino al 26/11/2026",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato"
+   ],
+   "scadenza": "2026-11-21T12:30:00",
+   "scuola": "Liceo Classico Dettori di Cagliari",
+   "sede": "Liceo Classico Dettori di Cagliari",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-g-m-dettori-cagliari-1"
+  },
   "3655da55f2": {
    "canale": "email",
    "classe": "",
@@ -920,8 +937,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-20T14:30:26",
-  "ultimo_nuovo": "2026-11-18",
+  "ultimo_giro": "2026-11-20T14:35:33",
+  "ultimo_nuovo": "2026-11-20",
   "update_offset": 406093743
  },
  "visti": {
@@ -1596,6 +1613,14 @@
    "scadenza": "",
    "titolo": "Interpello per la supplenza classe di concorso – A013 - Discipline Letterarie, Latino e Greco – L.C. “G.M. DETTORI” Cagliari",
    "visto_il": "2026-10-22T12:45:10"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a013-discipline-letterarie-latino-e-greco-l-c-g-m-dettori-cagliari-1": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-20",
+   "scadenza": "",
+   "titolo": "Interpello per la supplenza classe di concorso – A013 - Discipline Letterarie, Latino e Greco – L.C. “G.M. DETTORI” Cagliari",
+   "visto_il": "2026-11-20T14:35:33"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-la-supplenza-classe-di-concorso-a042-scienze-e-tecnologie-meccaniche-iis-buonarroti-volta-guspini": {
    "classe": "",
