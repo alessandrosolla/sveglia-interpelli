@@ -465,6 +465,23 @@
    "sede": "La supplenza oggetto del presente avviso decorre:",
    "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-la-selezione-personale-docente-scuola-secondaria-di-ii-grado-su-classe-di-concorso-ak55-strumento-musicale-saxofono-ai-sensi-dell-art"
   },
+  "6350b42465": {
+   "canale": "email",
+   "classe": "A041",
+   "creato": "2026-11-20T14:40:38",
+   "destinatario": "cais011007@istruzione.it",
+   "durata": "fino al 22.12.2026",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "modulo allegato",
+    "dichiarazione DPR 445"
+   ],
+   "scadenza": "",
+   "scuola": "ISTITUTO D’ISTRUZIONE SUPERIORE “BECCARIA – E. LOI”",
+   "sede": "",
+   "url": "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-n-15-ore-c-d-c-a041-fino-al-22-12-2026-presso-l-istituto-di-istruzione-superiore-beccaria-loi-carbonia"
+  },
   "636476ca39": {
    "canale": "email",
    "classe": "A044",
@@ -937,7 +954,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-20T14:35:33",
+  "ultimo_giro": "2026-11-20T14:40:39",
   "ultimo_nuovo": "2026-11-20",
   "update_offset": 406093743
  },
@@ -1021,6 +1038,14 @@
    "scadenza": "",
    "titolo": "2° Interpello per supplenza fino al termine delle attività didattiche n. 6 ore classe di concorso AS2A- lingua francese – presso IIS “BECCARIA – E. LOI” CARBONIA - Corso serale AFM",
    "visto_il": "2026-10-16T07:33:50"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/2-interpello-per-supplenza-n-15-ore-c-d-c-a041-fino-al-22-12-2026-presso-l-istituto-di-istruzione-superiore-beccaria-loi-carbonia": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-20",
+   "scadenza": "",
+   "titolo": "2°INTERPELLO per supplenza n. 15 ore C.D.C. A041 fino al 22.12.2026 presso l’Istituto di Istruzione Superiore \"Beccaria Loi\" - Carbonia",
+   "visto_il": "2026-11-20T14:40:39"
   },
   "https://www.mim.gov.it/web/cagliari/-/3-avviso-di-interpello-per-la-copertura-di-n-1-spezzone-di-6-ore-fino-al-termine-delle-attivita-didattiche-30-06-2027-per-la-classe-di-concorso-am2a-l": {
    "classe": "",
