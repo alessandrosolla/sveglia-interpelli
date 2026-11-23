@@ -954,8 +954,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-23T12:02:50",
-  "ultimo_nuovo": "2026-11-20",
+  "ultimo_giro": "2026-11-23T12:07:56",
+  "ultimo_nuovo": "2026-11-23",
   "update_offset": 406093743
  },
  "visti": {
@@ -1886,6 +1886,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER SUPPLENZA FINO ALL’ 8/06/2027 - CDC - A033 (SCIENZE E TECNOLOGIE AERONAUTICHE) a.s.2026/2027 - ISTITTUTO DI ISTRUZIONE SUPERIORE “D. SCANO – O. BACAREDDA” CAGLIARI",
    "visto_il": "2026-10-19T08:38:55"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-per-n-4-ore-settimanali-fino-al-30-11-2026-cdc-a041-scienze-e-tecnologie-informatiche-a-s-2026-2027": {
+   "classe": "",
+   "esito": "senza_pdf",
+   "pubblicato": "2026-11-23",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA PER N. 4 ORE SETTIMANALI FINO AL 30/11/2026 CDC – A041 - SCIENZE E TECNOLOGIE INFORMATICHE a.s.2026/2027",
+   "visto_il": "2026-11-23T12:07:55"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-sino-al-termine-delle-attivita-didattiche-su-classe-di-concorso-as2a-7-ore-presso-la-sede-carceraria-di-uta": {
    "classe": "",
