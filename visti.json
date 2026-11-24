@@ -971,7 +971,7 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-24T13:15:37",
+  "ultimo_giro": "2026-11-24T13:20:43",
   "ultimo_nuovo": "2026-11-24",
   "update_offset": 406093743
  },
@@ -1831,6 +1831,14 @@
    "scadenza": "",
    "titolo": "INTERPELLO PER SUPPLENZA BREVE N.1 CATTEDRA CLASSE DI CONCORSO AS2B – INGLESE – ISTITUTO DI ISTRUZIONE SUPERIORE “BECCARIA – E. LOI” CARBONIA – SEDE DI VIA DALMAZIA",
    "visto_il": "2026-08-26T20:40:41"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-breve-su-classe-di-concorso-bd02-conversazione-in-lingua-tedesca-per-n-12-ore-settimanali-fino-al-09-12-2026-a-s-2026-2027": {
+   "classe": "BD02",
+   "esito": "scaduto",
+   "pubblicato": "2026-11-24",
+   "scadenza": "2026-11-24 12:00:00",
+   "titolo": "Interpello per supplenza breve su classe di concorso BD02 – Conversazione in lingua Tedesca – per n. 12 ore settimanali fino al 09.12.2026 - a.s.2026/2027",
+   "visto_il": "2026-11-24T13:20:42"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-cdc-a023-lin-gua-italiana-per-discenti-di-lingua-straniera-allo-glotti-a-s-2026-27-distretto-22-cpia-n-1-cagliari": {
    "classe": "",
