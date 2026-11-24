@@ -705,6 +705,23 @@
    "sede": "IPIA Ferraris Via Canepa s.n.c Iglesias;",
    "url": "https://www.mim.gov.it/web/cagliari/-/1-interpello-per-supplenza-su-classe-di-con-corso-as12-italiano-progetto-progressi-linea-recuperiamo-iii-annualita-a-s-2025-2026-i-p-i-a-g-ferraris-ig"
   },
+  "b7317963c7": {
+   "canale": "email",
+   "classe": "AM2B",
+   "creato": "2026-11-24T10:07:59",
+   "destinatario": "camm202003@istruzione.it",
+   "durata": "",
+   "ore": "",
+   "richiede": [
+    "curriculum",
+    "documento d'identità",
+    "modulo allegato"
+   ],
+   "scadenza": "2026-11-25T08:00:00",
+   "scuola": "",
+   "sede": "DISTRETTO 11 CPIA N. 1 CAGLIARI (CACT708004)",
+   "url": "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-am2b-lingue-e-culture-straniere-nell-istru-zione-secondaria-di-i-grado-inglese-corsi-per-adulti-a-s-2026-27-distretto-"
+  },
   "d1e9b76ca3": {
    "canale": "portale Argo",
    "classe": "",
@@ -954,8 +971,8 @@
  "stato": {
   "fallimenti": 0,
   "silenzio_segnalato": "2026-09-16",
-  "ultimo_giro": "2026-11-24T10:02:54",
-  "ultimo_nuovo": "2026-11-23",
+  "ultimo_giro": "2026-11-24T10:08:00",
+  "ultimo_nuovo": "2026-11-24",
   "update_offset": 406093743
  },
  "visti": {
@@ -1942,6 +1959,14 @@
    "scadenza": "",
    "titolo": "Interpello per supplenza sino al termine delle attività didattiche su classe di concorso AS2A – ISS AZUNI - 7 ore presso la Sede Carceraria di Uta",
    "visto_il": "2026-10-26T12:56:07"
+  },
+  "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-am2b-lingue-e-culture-straniere-nell-istru-zione-secondaria-di-i-grado-inglese-corsi-per-adulti-a-s-2026-27-distretto-": {
+   "classe": "",
+   "esito": "errore",
+   "pubblicato": "2026-11-24",
+   "scadenza": "",
+   "titolo": "INTERPELLO PER SUPPLENZA SU CDC AM2B - LINGUE E CULTURE STRANIERE NELL'ISTRU-ZIONE SECONDARIA DI I GRADO (INGLESE) - CORSI PER ADULTI. A. S. 2026/27 - DISTRETTO 11 CPIA N. 1 CAGLIARI (CACT708004)",
+   "visto_il": "2026-11-24T10:08:00"
   },
   "https://www.mim.gov.it/web/cagliari/-/interpello-per-supplenza-su-cdc-as2d-lingue-e-culture-straniere-negli-istituti-di-istruzione-di-secondo-grado-tedesco-6-h-sett-li-corso-serale-a-s-202": {
    "classe": "",
